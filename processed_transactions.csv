@@ -1,0 +1,1001 @@
+date,amount,transaction_type,revenue,expenses,flag,reason,severity,flagged,prev_amount,prev_date,time_diff
+2025-02-15,656.34,Online Purchase,0.0,656.34,0,Legitimate Transaction,Low,1,,,
+2025-01-09,3370.49,Cash Withdrawal,0.0,3370.49,0,Legitimate Transaction,Low,0,656.34,2025-02-15,-888.0
+2025-01-17,1263.93,Cash Withdrawal,0.0,1263.93,0,Legitimate Transaction,Low,0,3370.49,2025-01-09,192.0
+2025-01-26,832.81,Transfer,832.81,0.0,0,Legitimate Transaction,Low,1,1263.93,2025-01-17,216.0
+2025-01-12,716.34,Online Purchase,716.34,0.0,0,Legitimate Transaction,Low,1,832.81,2025-01-26,-336.0
+2025-02-09,2838.65,Bill Payment,0.0,2838.65,0,Legitimate Transaction,Low,1,716.34,2025-01-12,672.0
+2025-02-06,4756.75,Bill Payment,4756.75,0.0,0,Legitimate Transaction,Low,0,2838.65,2025-02-09,-72.0
+2025-01-10,4642.73,Cash Withdrawal,0.0,4642.73,0,Legitimate Transaction,Low,0,4756.75,2025-02-06,-648.0
+2025-03-03,1566.57,POS Purchase,0.0,1566.57,0,Legitimate Transaction,Low,0,4642.73,2025-01-10,1248.0
+2025-02-25,1828.57,Transfer,1828.57,0.0,0,Legitimate Transaction,Low,0,1566.57,2025-03-03,-144.0
+2025-01-06,1090.95,POS Purchase,0.0,1090.95,0,Legitimate Transaction,Low,0,1828.57,2025-02-25,-1200.0
+2025-03-05,4007.99,POS Purchase,4007.99,0.0,0,Legitimate Transaction,Low,0,1090.95,2025-01-06,1392.0
+2025-03-27,3159.81,Cash Withdrawal,0.0,3159.81,0,Legitimate Transaction,Low,0,4007.99,2025-03-05,528.0
+2025-03-04,3359.42,Cash Withdrawal,3359.42,0.0,0,Legitimate Transaction,Low,0,3159.81,2025-03-27,-552.0
+2025-03-31,4249.44,Online Purchase,0.0,4249.44,0,Legitimate Transaction,Low,0,3359.42,2025-03-04,648.0
+2025-03-15,2207.99,POS Purchase,2207.99,0.0,0,Legitimate Transaction,Low,1,4249.44,2025-03-31,-384.0
+2025-02-13,637.45,Transfer,0.0,637.45,0,Legitimate Transaction,Low,0,2207.99,2025-03-15,-720.0
+2025-03-30,3669.1,Online Purchase,0.0,3669.1,0,Legitimate Transaction,Low,1,637.45,2025-02-13,1080.0
+2025-03-21,4789.33,Online Purchase,0.0,4789.33,0,Legitimate Transaction,Low,0,3669.1,2025-03-30,-216.0
+2025-01-29,3543.23,POS Purchase,0.0,3543.23,0,Legitimate Transaction,Low,0,4789.33,2025-03-21,-1224.0
+2025-01-04,1456.11,Cash Withdrawal,0.0,1456.11,0,Legitimate Transaction,Low,1,3543.23,2025-01-29,-600.0
+2025-01-06,35.35,Bill Payment,35.35,0.0,0,Legitimate Transaction,Low,0,1456.11,2025-01-04,48.0
+2025-02-22,1537.13,Cash Withdrawal,0.0,1537.13,0,Legitimate Transaction,Low,1,35.35,2025-01-06,1128.0
+2025-01-05,288.68,Online Purchase,288.68,0.0,0,Legitimate Transaction,Low,1,1537.13,2025-02-22,-1152.0
+2025-02-15,2640.59,Online Purchase,0.0,2640.59,0,Legitimate Transaction,Low,1,288.68,2025-01-05,984.0
+2025-03-17,3680.95,Cash Withdrawal,3680.95,0.0,0,Legitimate Transaction,Low,0,2640.59,2025-02-15,720.0
+2025-02-24,4446.05,POS Purchase,0.0,4446.05,0,Legitimate Transaction,Low,0,3680.95,2025-03-17,-504.0
+2025-03-29,2597.23,Transfer,0.0,2597.23,0,Legitimate Transaction,Low,1,4446.05,2025-02-24,792.0
+2025-02-11,4459.49,Bill Payment,0.0,4459.49,0,Legitimate Transaction,Low,0,2597.23,2025-03-29,-1104.0
+2025-03-17,2021.2,POS Purchase,0.0,2021.2,0,Legitimate Transaction,Low,0,4459.49,2025-02-11,816.0
+2025-01-20,2844.08,POS Purchase,0.0,2844.08,0,Legitimate Transaction,Low,0,2021.2,2025-03-17,-1344.0
+2025-02-15,1443.34,Online Purchase,0.0,1443.34,0,Legitimate Transaction,Low,1,2844.08,2025-01-20,624.0
+2025-02-20,4073.58,Online Purchase,4073.58,0.0,0,Legitimate Transaction,Low,0,1443.34,2025-02-15,120.0
+2025-01-21,1694.65,Bill Payment,1694.65,0.0,0,Legitimate Transaction,Low,0,4073.58,2025-02-20,-720.0
+2025-03-13,1673.68,Transfer,0.0,1673.68,0,Legitimate Transaction,Low,0,1694.65,2025-01-21,1224.0
+2025-01-09,2266.35,Bill Payment,2266.35,0.0,0,Legitimate Transaction,Low,0,1673.68,2025-03-13,-1512.0
+2025-01-13,731.88,Cash Withdrawal,0.0,731.88,0,Legitimate Transaction,Low,0,2266.35,2025-01-09,96.0
+2025-02-21,84.98,Bill Payment,84.98,0.0,0,Legitimate Transaction,Low,0,731.88,2025-01-13,936.0
+2025-02-20,1321.21,Cash Withdrawal,1321.21,0.0,0,Legitimate Transaction,Low,0,84.98,2025-02-21,-24.0
+2025-03-25,3238.68,Transfer,3238.68,0.0,0,Legitimate Transaction,Low,0,1321.21,2025-02-20,792.0
+2025-01-13,2481.72,Transfer,0.0,2481.72,0,Legitimate Transaction,Low,0,3238.68,2025-03-25,-1704.0
+2025-01-28,64.68,POS Purchase,64.68,0.0,0,Legitimate Transaction,Low,0,2481.72,2025-01-13,360.0
+2025-01-15,4238.59,Transfer,0.0,4238.59,0,Legitimate Transaction,Low,0,64.68,2025-01-28,-312.0
+2025-01-19,592.44,Cash Withdrawal,0.0,592.44,0,Legitimate Transaction,Low,1,4238.59,2025-01-15,96.0
+2025-02-19,3981.74,POS Purchase,0.0,3981.74,0,Legitimate Transaction,Low,0,592.44,2025-01-19,744.0
+2025-02-22,3153.43,POS Purchase,3153.43,0.0,0,Legitimate Transaction,Low,1,3981.74,2025-02-19,72.0
+2025-02-08,59.29,Cash Withdrawal,0.0,59.29,0,Legitimate Transaction,Low,1,3153.43,2025-02-22,-336.0
+2025-02-06,2205.58,Bill Payment,0.0,2205.58,0,Legitimate Transaction,Low,0,59.29,2025-02-08,-48.0
+2025-01-27,737.46,Bill Payment,737.46,0.0,0,Legitimate Transaction,Low,0,2205.58,2025-02-06,-240.0
+2025-01-20,2966.18,Transfer,2966.18,0.0,0,Legitimate Transaction,Low,0,737.46,2025-01-27,-168.0
+2025-03-13,1174.19,Transfer,1174.19,0.0,0,Legitimate Transaction,Low,0,2966.18,2025-01-20,1248.0
+2025-03-17,1083.41,Online Purchase,1083.41,0.0,0,Legitimate Transaction,Low,0,1174.19,2025-03-13,96.0
+2025-01-28,960.07,Cash Withdrawal,960.07,0.0,0,Legitimate Transaction,Low,0,1083.41,2025-03-17,-1152.0
+2025-03-23,1122.75,Online Purchase,0.0,1122.75,0,Legitimate Transaction,Low,1,960.07,2025-01-28,1296.0
+2025-02-14,4706.95,Online Purchase,4706.95,0.0,0,Legitimate Transaction,Low,0,1122.75,2025-03-23,-888.0
+2025-03-24,972.36,POS Purchase,0.0,972.36,0,Legitimate Transaction,Low,0,4706.95,2025-02-14,912.0
+2025-02-01,1278.9,POS Purchase,1278.9,0.0,0,Legitimate Transaction,Low,1,972.36,2025-03-24,-1224.0
+2025-01-04,3284.17,Bill Payment,3284.17,0.0,0,Legitimate Transaction,Low,1,1278.9,2025-02-01,-672.0
+2025-03-05,2183.38,Bill Payment,0.0,2183.38,0,Legitimate Transaction,Low,0,3284.17,2025-01-04,1440.0
+2025-02-06,3602.11,Online Purchase,3602.11,0.0,0,Legitimate Transaction,Low,0,2183.38,2025-03-05,-648.0
+2025-03-17,3719.2,Online Purchase,3719.2,0.0,0,Legitimate Transaction,Low,0,3602.11,2025-02-06,936.0
+2025-02-23,3324.24,Bill Payment,3324.24,0.0,0,Legitimate Transaction,Low,1,3719.2,2025-03-17,-528.0
+2025-03-28,1192.99,Transfer,1192.99,0.0,0,Legitimate Transaction,Low,0,3324.24,2025-02-23,792.0
+2025-02-18,2451.44,Transfer,0.0,2451.44,0,Legitimate Transaction,Low,0,1192.99,2025-03-28,-912.0
+2025-02-11,1836.41,POS Purchase,0.0,1836.41,0,Legitimate Transaction,Low,0,2451.44,2025-02-18,-168.0
+2025-01-17,4936.69,POS Purchase,4936.69,0.0,0,Legitimate Transaction,Low,0,1836.41,2025-02-11,-600.0
+2025-02-13,438.47,POS Purchase,438.47,0.0,0,Legitimate Transaction,Low,0,4936.69,2025-01-17,648.0
+2025-01-07,772.06,Online Purchase,772.06,0.0,0,Legitimate Transaction,Low,0,438.47,2025-02-13,-888.0
+2025-03-10,704.98,Bill Payment,704.98,0.0,0,Legitimate Transaction,Low,0,772.06,2025-01-07,1488.0
+2025-03-25,755.48,Bill Payment,0.0,755.48,0,Legitimate Transaction,Low,0,704.98,2025-03-10,360.0
+2025-01-19,4708.33,Cash Withdrawal,4708.33,0.0,0,Legitimate Transaction,Low,1,755.48,2025-03-25,-1560.0
+2025-02-24,4295.12,Cash Withdrawal,4295.12,0.0,0,Legitimate Transaction,Low,0,4708.33,2025-01-19,864.0
+2025-02-16,2599.44,Cash Withdrawal,0.0,2599.44,0,Legitimate Transaction,Low,1,4295.12,2025-02-24,-192.0
+2025-02-17,4345.86,POS Purchase,4345.86,0.0,1,Location Mismatch,Low,0,2599.44,2025-02-16,24.0
+2025-01-05,3985.45,Cash Withdrawal,0.0,3985.45,0,Legitimate Transaction,Low,1,4345.86,2025-02-17,-1032.0
+2025-02-09,2729.37,Bill Payment,2729.37,0.0,0,Legitimate Transaction,Low,1,3985.45,2025-01-05,840.0
+2025-02-15,2318.12,Transfer,0.0,2318.12,0,Legitimate Transaction,Low,1,2729.37,2025-02-09,144.0
+2025-02-04,3487.42,Transfer,3487.42,0.0,0,Legitimate Transaction,Low,0,2318.12,2025-02-15,-264.0
+2025-02-19,2786.64,Online Purchase,0.0,2786.64,0,Legitimate Transaction,Low,0,3487.42,2025-02-04,360.0
+2025-02-24,4861.16,POS Purchase,4861.16,0.0,0,Legitimate Transaction,Low,0,2786.64,2025-02-19,120.0
+2025-02-23,3464.51,POS Purchase,0.0,3464.51,0,Legitimate Transaction,Low,1,4861.16,2025-02-24,-24.0
+2025-01-22,3152.41,Cash Withdrawal,0.0,3152.41,0,Legitimate Transaction,Low,0,3464.51,2025-02-23,-768.0
+2025-03-21,1763.77,Online Purchase,0.0,1763.77,0,Legitimate Transaction,Low,0,3152.41,2025-01-22,1392.0
+2025-02-18,2427.57,Online Purchase,2427.57,0.0,0,Legitimate Transaction,Low,0,1763.77,2025-03-21,-744.0
+2025-02-10,583.69,Cash Withdrawal,0.0,583.69,0,Legitimate Transaction,Low,0,2427.57,2025-02-18,-192.0
+2025-02-02,1450.39,Cash Withdrawal,1450.39,0.0,0,Legitimate Transaction,Low,1,583.69,2025-02-10,-192.0
+2025-01-10,3636.42,POS Purchase,3636.42,0.0,0,Legitimate Transaction,Low,0,1450.39,2025-02-02,-552.0
+2025-01-24,3896.89,Cash Withdrawal,0.0,3896.89,1,Unusual Spending,High,0,3636.42,2025-01-10,336.0
+2025-02-04,2130.57,Transfer,0.0,2130.57,0,Legitimate Transaction,Low,0,3896.89,2025-01-24,264.0
+2025-02-28,3679.08,Online Purchase,3679.08,0.0,0,Legitimate Transaction,Low,0,2130.57,2025-02-04,576.0
+2025-01-05,1950.77,Online Purchase,1950.77,0.0,0,Legitimate Transaction,Low,1,3679.08,2025-02-28,-1296.0
+2025-01-21,3341.27,Transfer,3341.27,0.0,0,Legitimate Transaction,Low,0,1950.77,2025-01-05,384.0
+2025-01-07,4085.13,Bill Payment,0.0,4085.13,0,Legitimate Transaction,Low,0,3341.27,2025-01-21,-336.0
+2025-02-01,128.86,POS Purchase,128.86,0.0,0,Legitimate Transaction,Low,1,4085.13,2025-01-07,600.0
+2025-02-23,1995.35,Bill Payment,0.0,1995.35,0,Legitimate Transaction,Low,1,128.86,2025-02-01,528.0
+2025-03-05,3810.54,Cash Withdrawal,0.0,3810.54,0,Legitimate Transaction,Low,0,1995.35,2025-02-23,240.0
+2025-02-18,2692.58,Bill Payment,2692.58,0.0,0,Legitimate Transaction,Low,0,3810.54,2025-03-05,-360.0
+2025-01-19,3044.64,POS Purchase,0.0,3044.64,0,Legitimate Transaction,Low,1,2692.58,2025-02-18,-720.0
+2025-01-27,479.2,Transfer,0.0,479.2,0,Legitimate Transaction,Low,0,3044.64,2025-01-19,192.0
+2025-03-11,987.86,Bill Payment,0.0,987.86,0,Legitimate Transaction,Low,0,479.2,2025-01-27,1032.0
+2025-02-11,4314.97,Bill Payment,0.0,4314.97,1,Unusual Spending,Low,0,987.86,2025-03-11,-672.0
+2025-01-31,4414.49,POS Purchase,4414.49,0.0,0,Legitimate Transaction,Low,0,4314.97,2025-02-11,-264.0
+2025-02-02,676.2,Transfer,676.2,0.0,1,Multiple Transactions,Low,1,4414.49,2025-01-31,48.0
+2025-02-04,442.22,Transfer,442.22,0.0,0,Legitimate Transaction,Low,0,676.2,2025-02-02,48.0
+2025-02-08,2292.21,Transfer,0.0,2292.21,0,Legitimate Transaction,Low,1,442.22,2025-02-04,96.0
+2025-02-16,1840.33,Bill Payment,0.0,1840.33,0,Legitimate Transaction,Low,1,2292.21,2025-02-08,192.0
+2025-02-14,753.66,POS Purchase,0.0,753.66,0,Legitimate Transaction,Low,0,1840.33,2025-02-16,-48.0
+2025-01-03,1242.51,POS Purchase,0.0,1242.51,0,Legitimate Transaction,Low,0,753.66,2025-02-14,-1008.0
+2025-02-09,35.72,Cash Withdrawal,35.72,0.0,0,Legitimate Transaction,Low,1,1242.51,2025-01-03,888.0
+2025-01-06,4979.69,POS Purchase,0.0,4979.69,0,Legitimate Transaction,Low,0,35.72,2025-02-09,-816.0
+2025-02-19,109.02,Transfer,0.0,109.02,0,Legitimate Transaction,Low,0,4979.69,2025-01-06,1056.0
+2025-01-27,762.4,Bill Payment,0.0,762.4,0,Legitimate Transaction,Low,0,109.02,2025-02-19,-552.0
+2025-02-05,1310.67,Cash Withdrawal,1310.67,0.0,0,Legitimate Transaction,Low,0,762.4,2025-01-27,216.0
+2025-02-22,1866.68,Online Purchase,1866.68,0.0,0,Legitimate Transaction,Low,1,1310.67,2025-02-05,408.0
+2025-01-28,3417.79,POS Purchase,3417.79,0.0,0,Legitimate Transaction,Low,0,1866.68,2025-02-22,-600.0
+2025-02-22,2630.17,Cash Withdrawal,0.0,2630.17,0,Legitimate Transaction,Low,1,3417.79,2025-01-28,600.0
+2025-01-13,3899.85,Transfer,3899.85,0.0,0,Legitimate Transaction,Low,0,2630.17,2025-02-22,-960.0
+2025-02-20,1905.05,Bill Payment,1905.05,0.0,0,Legitimate Transaction,Low,0,3899.85,2025-01-13,912.0
+2025-03-07,3978.79,Bill Payment,0.0,3978.79,0,Legitimate Transaction,Low,0,1905.05,2025-02-20,360.0
+2025-02-03,1989.31,POS Purchase,0.0,1989.31,0,Legitimate Transaction,Low,0,3978.79,2025-03-07,-768.0
+2025-03-06,1752.72,Bill Payment,0.0,1752.72,0,Legitimate Transaction,Low,0,1989.31,2025-02-03,744.0
+2025-01-02,1665.84,POS Purchase,1665.84,0.0,0,Legitimate Transaction,Low,0,1752.72,2025-03-06,-1512.0
+2025-02-16,574.1,Cash Withdrawal,574.1,0.0,0,Legitimate Transaction,Low,1,1665.84,2025-01-02,1080.0
+2025-01-28,3525.87,Cash Withdrawal,0.0,3525.87,0,Legitimate Transaction,Low,0,574.1,2025-02-16,-456.0
+2025-03-13,4317.09,Online Purchase,0.0,4317.09,0,Legitimate Transaction,Low,0,3525.87,2025-01-28,1056.0
+2025-03-27,2443.37,Online Purchase,2443.37,0.0,0,Legitimate Transaction,Low,0,4317.09,2025-03-13,336.0
+2025-03-11,2954.85,POS Purchase,2954.85,0.0,0,Legitimate Transaction,Low,0,2443.37,2025-03-27,-384.0
+2025-02-17,2262.58,Online Purchase,0.0,2262.58,0,Legitimate Transaction,Low,0,2954.85,2025-03-11,-528.0
+2025-01-25,4387.47,POS Purchase,4387.47,0.0,0,Legitimate Transaction,Low,1,2262.58,2025-02-17,-552.0
+2025-03-21,1254.84,Online Purchase,1254.84,0.0,1,Unusual Spending,Low,0,4387.47,2025-01-25,1320.0
+2025-03-24,2535.29,Transfer,2535.29,0.0,0,Legitimate Transaction,Low,0,1254.84,2025-03-21,72.0
+2025-03-04,3533.77,Online Purchase,0.0,3533.77,0,Legitimate Transaction,Low,0,2535.29,2025-03-24,-480.0
+2025-03-28,1107.02,Transfer,0.0,1107.02,0,Legitimate Transaction,Low,0,3533.77,2025-03-04,576.0
+2025-01-19,4109.28,Bill Payment,0.0,4109.28,0,Legitimate Transaction,Low,1,1107.02,2025-03-28,-1632.0
+2025-03-26,2057.91,Cash Withdrawal,2057.91,0.0,0,Legitimate Transaction,Low,0,4109.28,2025-01-19,1584.0
+2025-01-24,816.46,Bill Payment,816.46,0.0,0,Legitimate Transaction,Low,0,2057.91,2025-03-26,-1464.0
+2025-03-08,1691.09,Bill Payment,1691.09,0.0,0,Legitimate Transaction,Low,1,816.46,2025-01-24,1032.0
+2025-01-04,2527.28,POS Purchase,0.0,2527.28,0,Legitimate Transaction,Low,1,1691.09,2025-03-08,-1512.0
+2025-03-28,3956.72,Cash Withdrawal,0.0,3956.72,0,Legitimate Transaction,Low,0,2527.28,2025-01-04,1992.0
+2025-02-08,1262.15,Bill Payment,0.0,1262.15,0,Legitimate Transaction,Low,1,3956.72,2025-03-28,-1152.0
+2025-03-28,3678.72,Bill Payment,3678.72,0.0,0,Legitimate Transaction,Low,0,1262.15,2025-02-08,1152.0
+2025-01-21,2024.24,Online Purchase,2024.24,0.0,0,Legitimate Transaction,Low,0,3678.72,2025-03-28,-1584.0
+2025-03-14,463.13,POS Purchase,463.13,0.0,0,Legitimate Transaction,Low,0,2024.24,2025-01-21,1248.0
+2025-02-10,729.24,Online Purchase,0.0,729.24,0,Legitimate Transaction,Low,0,463.13,2025-03-14,-768.0
+2025-01-05,4603.93,Online Purchase,0.0,4603.93,0,Legitimate Transaction,Low,1,729.24,2025-02-10,-864.0
+2025-01-21,2443.89,Cash Withdrawal,2443.89,0.0,0,Legitimate Transaction,Low,0,4603.93,2025-01-05,384.0
+2025-01-14,2597.75,POS Purchase,2597.75,0.0,0,Legitimate Transaction,Low,0,2443.89,2025-01-21,-168.0
+2025-03-07,423.78,Cash Withdrawal,423.78,0.0,0,Legitimate Transaction,Low,0,2597.75,2025-01-14,1248.0
+2025-03-06,1414.26,POS Purchase,0.0,1414.26,0,Legitimate Transaction,Low,0,423.78,2025-03-07,-24.0
+2025-02-14,4213.95,Online Purchase,0.0,4213.95,0,Legitimate Transaction,Low,0,1414.26,2025-03-06,-480.0
+2025-01-08,870.56,Bill Payment,0.0,870.56,0,Legitimate Transaction,Low,0,4213.95,2025-02-14,-888.0
+2025-01-21,2576.42,Online Purchase,2576.42,0.0,0,Legitimate Transaction,Low,0,870.56,2025-01-08,312.0
+2025-03-25,259.68,Transfer,259.68,0.0,0,Legitimate Transaction,Low,0,2576.42,2025-01-21,1512.0
+2025-01-02,3172.99,Transfer,3172.99,0.0,0,Legitimate Transaction,Low,0,259.68,2025-03-25,-1968.0
+2025-01-03,3758.69,Cash Withdrawal,0.0,3758.69,0,Legitimate Transaction,Low,0,3172.99,2025-01-02,24.0
+2025-01-20,2901.41,POS Purchase,2901.41,0.0,0,Legitimate Transaction,Low,0,3758.69,2025-01-03,408.0
+2025-02-25,4623.64,Online Purchase,0.0,4623.64,0,Legitimate Transaction,Low,0,2901.41,2025-01-20,864.0
+2025-01-08,2858.93,Transfer,2858.93,0.0,0,Legitimate Transaction,Low,0,4623.64,2025-02-25,-1152.0
+2025-01-24,2624.98,Cash Withdrawal,0.0,2624.98,0,Legitimate Transaction,Low,0,2858.93,2025-01-08,384.0
+2025-03-03,4577.21,Cash Withdrawal,0.0,4577.21,0,Legitimate Transaction,Low,0,2624.98,2025-01-24,912.0
+2025-02-20,556.29,Bill Payment,0.0,556.29,0,Legitimate Transaction,Low,0,4577.21,2025-03-03,-264.0
+2025-03-24,4232.0,Bill Payment,0.0,4232.0,0,Legitimate Transaction,Low,0,556.29,2025-02-20,768.0
+2025-02-24,3429.39,Online Purchase,0.0,3429.39,0,Legitimate Transaction,Low,0,4232.0,2025-03-24,-672.0
+2025-02-27,3515.36,Cash Withdrawal,0.0,3515.36,0,Legitimate Transaction,Low,0,3429.39,2025-02-24,72.0
+2025-03-02,1807.65,Cash Withdrawal,0.0,1807.65,0,Legitimate Transaction,Low,1,3515.36,2025-02-27,72.0
+2025-03-14,1739.96,Bill Payment,1739.96,0.0,1,High-Risk Merchant,High,0,1807.65,2025-03-02,288.0
+2025-03-07,2389.37,POS Purchase,2389.37,0.0,0,Legitimate Transaction,Low,0,1739.96,2025-03-14,-168.0
+2025-03-01,3031.73,Cash Withdrawal,3031.73,0.0,0,Legitimate Transaction,Low,1,2389.37,2025-03-07,-144.0
+2025-03-18,4369.44,Bill Payment,0.0,4369.44,0,Legitimate Transaction,Low,0,3031.73,2025-03-01,408.0
+2025-03-13,2686.91,Transfer,0.0,2686.91,0,Legitimate Transaction,Low,0,4369.44,2025-03-18,-120.0
+2025-03-30,3773.66,Online Purchase,0.0,3773.66,0,Legitimate Transaction,Low,1,2686.91,2025-03-13,408.0
+2025-03-27,614.81,Cash Withdrawal,614.81,0.0,0,Legitimate Transaction,Low,0,3773.66,2025-03-30,-72.0
+2025-03-22,3982.27,Cash Withdrawal,0.0,3982.27,0,Legitimate Transaction,Low,1,614.81,2025-03-27,-120.0
+2025-03-25,618.6,Cash Withdrawal,618.6,0.0,0,Legitimate Transaction,Low,0,3982.27,2025-03-22,72.0
+2025-01-15,4358.85,Cash Withdrawal,0.0,4358.85,0,Legitimate Transaction,Low,0,618.6,2025-03-25,-1656.0
+2025-01-16,3675.63,Cash Withdrawal,3675.63,0.0,0,Legitimate Transaction,Low,0,4358.85,2025-01-15,24.0
+2025-02-07,1164.57,Cash Withdrawal,1164.57,0.0,0,Legitimate Transaction,Low,0,3675.63,2025-01-16,528.0
+2025-02-06,4520.99,POS Purchase,0.0,4520.99,0,Legitimate Transaction,Low,0,1164.57,2025-02-07,-24.0
+2025-03-21,843.84,Bill Payment,0.0,843.84,0,Legitimate Transaction,Low,0,4520.99,2025-02-06,1032.0
+2025-03-18,678.35,POS Purchase,678.35,0.0,0,Legitimate Transaction,Low,0,843.84,2025-03-21,-72.0
+2025-03-12,3972.3,Online Purchase,0.0,3972.3,0,Legitimate Transaction,Low,0,678.35,2025-03-18,-144.0
+2025-02-16,999.22,POS Purchase,0.0,999.22,0,Legitimate Transaction,Low,1,3972.3,2025-03-12,-576.0
+2025-02-20,1675.21,Cash Withdrawal,0.0,1675.21,0,Legitimate Transaction,Low,0,999.22,2025-02-16,96.0
+2025-01-17,2420.39,Cash Withdrawal,2420.39,0.0,0,Legitimate Transaction,Low,0,1675.21,2025-02-20,-816.0
+2025-02-20,4193.1,Cash Withdrawal,4193.1,0.0,0,Legitimate Transaction,Low,0,2420.39,2025-01-17,816.0
+2025-02-23,3716.62,Online Purchase,0.0,3716.62,0,Legitimate Transaction,Low,1,4193.1,2025-02-20,72.0
+2025-02-02,4179.77,Bill Payment,4179.77,0.0,0,Legitimate Transaction,Low,1,3716.62,2025-02-23,-504.0
+2025-02-07,2984.53,Cash Withdrawal,2984.53,0.0,0,Legitimate Transaction,Low,0,4179.77,2025-02-02,120.0
+2025-03-30,3429.0,POS Purchase,0.0,3429.0,0,Legitimate Transaction,Low,1,2984.53,2025-02-07,1224.0
+2025-01-22,4940.31,Cash Withdrawal,0.0,4940.31,0,Legitimate Transaction,Low,0,3429.0,2025-03-30,-1608.0
+2025-03-28,206.46,Online Purchase,0.0,206.46,0,Legitimate Transaction,Low,0,4940.31,2025-01-22,1560.0
+2025-01-12,2698.64,Cash Withdrawal,0.0,2698.64,0,Legitimate Transaction,Low,1,206.46,2025-03-28,-1800.0
+2025-02-24,1837.56,POS Purchase,1837.56,0.0,1,High-Risk Merchant,High,0,2698.64,2025-01-12,1032.0
+2025-03-20,1642.88,Transfer,1642.88,0.0,0,Legitimate Transaction,Low,0,1837.56,2025-02-24,576.0
+2025-02-11,1648.06,Cash Withdrawal,1648.06,0.0,0,Legitimate Transaction,Low,0,1642.88,2025-03-20,-888.0
+2025-01-15,2618.93,Transfer,0.0,2618.93,0,Legitimate Transaction,Low,0,1648.06,2025-02-11,-648.0
+2025-03-14,3280.76,Transfer,0.0,3280.76,0,Legitimate Transaction,Low,0,2618.93,2025-01-15,1392.0
+2025-01-08,1810.89,Online Purchase,1810.89,0.0,0,Legitimate Transaction,Low,0,3280.76,2025-03-14,-1560.0
+2025-02-04,4812.98,POS Purchase,4812.98,0.0,0,Legitimate Transaction,Low,0,1810.89,2025-01-08,648.0
+2025-01-13,3446.2,Transfer,3446.2,0.0,0,Legitimate Transaction,Low,0,4812.98,2025-02-04,-528.0
+2025-01-04,191.28,Transfer,0.0,191.28,0,Legitimate Transaction,Low,1,3446.2,2025-01-13,-216.0
+2025-02-02,3441.9,Online Purchase,0.0,3441.9,0,Legitimate Transaction,Low,1,191.28,2025-01-04,696.0
+2025-03-08,2791.86,Transfer,0.0,2791.86,0,Legitimate Transaction,Low,1,3441.9,2025-02-02,816.0
+2025-01-07,110.85,Bill Payment,110.85,0.0,0,Legitimate Transaction,Low,0,2791.86,2025-03-08,-1440.0
+2025-02-21,3595.67,Transfer,0.0,3595.67,0,Legitimate Transaction,Low,0,110.85,2025-01-07,1080.0
+2025-03-31,2713.84,Bill Payment,0.0,2713.84,0,Legitimate Transaction,Low,0,3595.67,2025-02-21,912.0
+2025-03-14,4818.21,Online Purchase,0.0,4818.21,0,Legitimate Transaction,Low,0,2713.84,2025-03-31,-408.0
+2025-01-21,1630.57,Online Purchase,0.0,1630.57,0,Legitimate Transaction,Low,0,4818.21,2025-03-14,-1248.0
+2025-02-28,4250.77,Online Purchase,0.0,4250.77,0,Legitimate Transaction,Low,0,1630.57,2025-01-21,912.0
+2025-02-03,3801.57,Cash Withdrawal,3801.57,0.0,0,Legitimate Transaction,Low,0,4250.77,2025-02-28,-600.0
+2025-03-02,1196.44,POS Purchase,1196.44,0.0,0,Legitimate Transaction,Low,1,3801.57,2025-02-03,648.0
+2025-03-15,2574.24,Transfer,0.0,2574.24,0,Legitimate Transaction,Low,1,1196.44,2025-03-02,312.0
+2025-02-11,4356.97,POS Purchase,0.0,4356.97,0,Legitimate Transaction,Low,0,2574.24,2025-03-15,-768.0
+2025-02-27,868.01,Cash Withdrawal,0.0,868.01,0,Legitimate Transaction,Low,0,4356.97,2025-02-11,384.0
+2025-02-18,1411.16,Bill Payment,0.0,1411.16,0,Legitimate Transaction,Low,0,868.01,2025-02-27,-216.0
+2025-02-15,278.65,Bill Payment,278.65,0.0,0,Legitimate Transaction,Low,1,1411.16,2025-02-18,-72.0
+2025-02-17,3449.73,POS Purchase,0.0,3449.73,0,Legitimate Transaction,Low,0,278.65,2025-02-15,48.0
+2025-01-30,3771.84,Cash Withdrawal,0.0,3771.84,0,Legitimate Transaction,Low,0,3449.73,2025-02-17,-432.0
+2025-03-26,1231.03,Transfer,0.0,1231.03,0,Legitimate Transaction,Low,0,3771.84,2025-01-30,1320.0
+2025-01-20,61.74,POS Purchase,61.74,0.0,0,Legitimate Transaction,Low,0,1231.03,2025-03-26,-1560.0
+2025-01-02,4081.11,Online Purchase,0.0,4081.11,0,Legitimate Transaction,Low,0,61.74,2025-01-20,-432.0
+2025-02-25,550.98,Online Purchase,550.98,0.0,0,Legitimate Transaction,Low,0,4081.11,2025-01-02,1296.0
+2025-03-18,2659.08,Cash Withdrawal,2659.08,0.0,0,Legitimate Transaction,Low,0,550.98,2025-02-25,504.0
+2025-03-13,1402.74,POS Purchase,1402.74,0.0,0,Legitimate Transaction,Low,0,2659.08,2025-03-18,-120.0
+2025-01-17,3772.01,Online Purchase,0.0,3772.01,0,Legitimate Transaction,Low,0,1402.74,2025-03-13,-1320.0
+2025-01-19,678.2,Online Purchase,678.2,0.0,0,Legitimate Transaction,Low,1,3772.01,2025-01-17,48.0
+2025-03-17,528.68,Bill Payment,528.68,0.0,0,Legitimate Transaction,Low,0,678.2,2025-01-19,1368.0
+2025-02-15,3656.62,POS Purchase,0.0,3656.62,0,Legitimate Transaction,Low,1,528.68,2025-03-17,-720.0
+2025-01-28,3096.35,Bill Payment,0.0,3096.35,0,Legitimate Transaction,Low,0,3656.62,2025-02-15,-432.0
+2025-02-25,1057.55,Cash Withdrawal,0.0,1057.55,0,Legitimate Transaction,Low,0,3096.35,2025-01-28,672.0
+2025-01-17,50.79,Bill Payment,50.79,0.0,0,Legitimate Transaction,Low,0,1057.55,2025-02-25,-936.0
+2025-01-09,2045.55,Transfer,2045.55,0.0,0,Legitimate Transaction,Low,0,50.79,2025-01-17,-192.0
+2025-03-09,2645.94,Transfer,2645.94,0.0,1,Location Mismatch,Low,1,2045.55,2025-01-09,1416.0
+2025-03-16,456.44,Transfer,456.44,0.0,0,Legitimate Transaction,Low,1,2645.94,2025-03-09,168.0
+2025-03-12,3285.97,Transfer,3285.97,0.0,0,Legitimate Transaction,Low,0,456.44,2025-03-16,-96.0
+2025-02-27,1047.11,Transfer,0.0,1047.11,0,Legitimate Transaction,Low,0,3285.97,2025-03-12,-312.0
+2025-01-19,1347.34,Bill Payment,0.0,1347.34,1,Multiple Transactions,High,1,1047.11,2025-02-27,-936.0
+2025-02-12,3951.02,Transfer,0.0,3951.02,0,Legitimate Transaction,Low,0,1347.34,2025-01-19,576.0
+2025-03-24,1035.83,Transfer,0.0,1035.83,0,Legitimate Transaction,Low,0,3951.02,2025-02-12,960.0
+2025-03-07,3717.21,Transfer,0.0,3717.21,0,Legitimate Transaction,Low,0,1035.83,2025-03-24,-408.0
+2025-01-12,3035.05,Cash Withdrawal,3035.05,0.0,0,Legitimate Transaction,Low,1,3717.21,2025-03-07,-1296.0
+2025-02-27,3737.34,POS Purchase,0.0,3737.34,0,Legitimate Transaction,Low,0,3035.05,2025-01-12,1104.0
+2025-03-13,714.41,Online Purchase,0.0,714.41,0,Legitimate Transaction,Low,0,3737.34,2025-02-27,336.0
+2025-02-19,1415.45,Cash Withdrawal,0.0,1415.45,0,Legitimate Transaction,Low,0,714.41,2025-03-13,-528.0
+2025-03-22,3496.79,Cash Withdrawal,0.0,3496.79,0,Legitimate Transaction,Low,1,1415.45,2025-02-19,744.0
+2025-01-31,3342.58,Cash Withdrawal,0.0,3342.58,0,Legitimate Transaction,Low,0,3496.79,2025-03-22,-1200.0
+2025-03-09,3429.85,Cash Withdrawal,3429.85,0.0,0,Legitimate Transaction,Low,1,3342.58,2025-01-31,888.0
+2025-02-07,2138.14,Online Purchase,0.0,2138.14,0,Legitimate Transaction,Low,0,3429.85,2025-03-09,-720.0
+2025-03-08,409.44,Cash Withdrawal,0.0,409.44,0,Legitimate Transaction,Low,1,2138.14,2025-02-07,696.0
+2025-03-08,813.67,Bill Payment,0.0,813.67,1,Location Mismatch,Low,1,409.44,2025-03-08,0.0
+2025-03-21,20.62,POS Purchase,20.62,0.0,0,Legitimate Transaction,Low,0,813.67,2025-03-08,312.0
+2025-03-30,2231.29,Cash Withdrawal,2231.29,0.0,0,Legitimate Transaction,Low,1,20.62,2025-03-21,216.0
+2025-01-09,3503.13,Transfer,3503.13,0.0,0,Legitimate Transaction,Low,0,2231.29,2025-03-30,-1920.0
+2025-02-19,3092.98,Bill Payment,0.0,3092.98,0,Legitimate Transaction,Low,0,3503.13,2025-01-09,984.0
+2025-03-02,4272.59,Transfer,0.0,4272.59,0,Legitimate Transaction,Low,1,3092.98,2025-02-19,264.0
+2025-02-27,4049.49,Cash Withdrawal,0.0,4049.49,0,Legitimate Transaction,Low,0,4272.59,2025-03-02,-72.0
+2025-01-22,4697.08,POS Purchase,4697.08,0.0,0,Legitimate Transaction,Low,0,4049.49,2025-02-27,-864.0
+2025-03-29,2091.8,POS Purchase,2091.8,0.0,0,Legitimate Transaction,Low,1,4697.08,2025-01-22,1584.0
+2025-03-15,4505.09,Online Purchase,0.0,4505.09,0,Legitimate Transaction,Low,1,2091.8,2025-03-29,-336.0
+2025-01-12,2283.56,POS Purchase,0.0,2283.56,0,Legitimate Transaction,Low,1,4505.09,2025-03-15,-1488.0
+2025-03-25,1597.28,Transfer,0.0,1597.28,0,Legitimate Transaction,Low,0,2283.56,2025-01-12,1728.0
+2025-02-24,2833.02,Cash Withdrawal,0.0,2833.02,0,Legitimate Transaction,Low,0,1597.28,2025-03-25,-696.0
+2025-02-07,3654.34,Bill Payment,0.0,3654.34,0,Legitimate Transaction,Low,0,2833.02,2025-02-24,-408.0
+2025-01-03,1687.46,Online Purchase,0.0,1687.46,0,Legitimate Transaction,Low,0,3654.34,2025-02-07,-840.0
+2025-02-05,2201.34,Online Purchase,2201.34,0.0,0,Legitimate Transaction,Low,0,1687.46,2025-01-03,792.0
+2025-01-29,3188.35,Transfer,0.0,3188.35,0,Legitimate Transaction,Low,0,2201.34,2025-02-05,-168.0
+2025-03-23,3467.08,Cash Withdrawal,0.0,3467.08,0,Legitimate Transaction,Low,1,3188.35,2025-01-29,1272.0
+2025-02-08,4766.36,Online Purchase,0.0,4766.36,0,Legitimate Transaction,Low,1,3467.08,2025-03-23,-1032.0
+2025-01-05,4189.87,POS Purchase,4189.87,0.0,0,Legitimate Transaction,Low,1,4766.36,2025-02-08,-816.0
+2025-01-26,4560.45,POS Purchase,4560.45,0.0,0,Legitimate Transaction,Low,1,4189.87,2025-01-05,504.0
+2025-03-21,1554.59,Transfer,1554.59,0.0,0,Legitimate Transaction,Low,0,4560.45,2025-01-26,1296.0
+2025-02-23,881.29,Transfer,0.0,881.29,0,Legitimate Transaction,Low,1,1554.59,2025-03-21,-624.0
+2025-01-18,1491.08,POS Purchase,0.0,1491.08,0,Legitimate Transaction,Low,1,881.29,2025-02-23,-864.0
+2025-02-14,1417.8,Cash Withdrawal,1417.8,0.0,0,Legitimate Transaction,Low,0,1491.08,2025-01-18,648.0
+2025-01-01,1069.06,Cash Withdrawal,1069.06,0.0,0,Legitimate Transaction,Low,0,1417.8,2025-02-14,-1056.0
+2025-02-09,156.57,Cash Withdrawal,156.57,0.0,1,Card Cloning,Low,1,1069.06,2025-01-01,936.0
+2025-01-29,1119.78,Transfer,0.0,1119.78,0,Legitimate Transaction,Low,0,156.57,2025-02-09,-264.0
+2025-01-05,163.86,Transfer,0.0,163.86,0,Legitimate Transaction,Low,1,1119.78,2025-01-29,-576.0
+2025-01-19,1890.71,Online Purchase,1890.71,0.0,0,Legitimate Transaction,Low,1,163.86,2025-01-05,336.0
+2025-01-07,1789.57,POS Purchase,0.0,1789.57,0,Legitimate Transaction,Low,0,1890.71,2025-01-19,-288.0
+2025-01-04,4171.4,Cash Withdrawal,4171.4,0.0,0,Legitimate Transaction,Low,1,1789.57,2025-01-07,-72.0
+2025-02-03,1872.27,Online Purchase,0.0,1872.27,0,Legitimate Transaction,Low,0,4171.4,2025-01-04,720.0
+2025-01-16,1550.54,POS Purchase,1550.54,0.0,1,High-Risk Merchant,High,0,1872.27,2025-02-03,-432.0
+2025-01-09,3199.75,Transfer,0.0,3199.75,0,Legitimate Transaction,Low,0,1550.54,2025-01-16,-168.0
+2025-01-08,2123.38,Bill Payment,0.0,2123.38,0,Legitimate Transaction,Low,0,3199.75,2025-01-09,-24.0
+2025-01-29,1715.97,POS Purchase,1715.97,0.0,0,Legitimate Transaction,Low,0,2123.38,2025-01-08,504.0
+2025-03-12,1153.81,Bill Payment,0.0,1153.81,0,Legitimate Transaction,Low,0,1715.97,2025-01-29,1008.0
+2025-03-17,2341.5,Transfer,2341.5,0.0,0,Legitimate Transaction,Low,0,1153.81,2025-03-12,120.0
+2025-02-21,2930.93,Transfer,2930.93,0.0,1,Multiple Transactions,High,0,2341.5,2025-03-17,-576.0
+2025-01-25,3646.91,Online Purchase,3646.91,0.0,0,Legitimate Transaction,Low,1,2930.93,2025-02-21,-648.0
+2025-01-05,4003.03,Bill Payment,4003.03,0.0,0,Legitimate Transaction,Low,1,3646.91,2025-01-25,-480.0
+2025-03-30,4384.22,Bill Payment,4384.22,0.0,0,Legitimate Transaction,Low,1,4003.03,2025-01-05,2016.0
+2025-03-08,4542.22,POS Purchase,0.0,4542.22,0,Legitimate Transaction,Low,1,4384.22,2025-03-30,-528.0
+2025-03-18,1488.69,POS Purchase,0.0,1488.69,0,Legitimate Transaction,Low,0,4542.22,2025-03-08,240.0
+2025-01-01,4122.36,POS Purchase,4122.36,0.0,0,Legitimate Transaction,Low,0,1488.69,2025-03-18,-1824.0
+2025-02-03,2640.37,Bill Payment,0.0,2640.37,0,Legitimate Transaction,Low,0,4122.36,2025-01-01,792.0
+2025-03-08,4580.29,Bill Payment,0.0,4580.29,0,Legitimate Transaction,Low,1,2640.37,2025-02-03,792.0
+2025-03-15,1628.2,Cash Withdrawal,1628.2,0.0,0,Legitimate Transaction,Low,1,4580.29,2025-03-08,168.0
+2025-02-25,3363.23,Online Purchase,0.0,3363.23,0,Legitimate Transaction,Low,0,1628.2,2025-03-15,-432.0
+2025-01-09,2990.28,Cash Withdrawal,0.0,2990.28,0,Legitimate Transaction,Low,0,3363.23,2025-02-25,-1128.0
+2025-03-20,3837.73,Bill Payment,3837.73,0.0,0,Legitimate Transaction,Low,0,2990.28,2025-01-09,1680.0
+2025-03-14,948.75,Transfer,0.0,948.75,0,Legitimate Transaction,Low,0,3837.73,2025-03-20,-144.0
+2025-01-18,143.62,POS Purchase,0.0,143.62,0,Legitimate Transaction,Low,1,948.75,2025-03-14,-1320.0
+2025-01-20,3773.6,Bill Payment,0.0,3773.6,0,Legitimate Transaction,Low,0,143.62,2025-01-18,48.0
+2025-03-07,2961.73,Transfer,0.0,2961.73,0,Legitimate Transaction,Low,0,3773.6,2025-01-20,1104.0
+2025-01-25,2159.79,POS Purchase,0.0,2159.79,0,Legitimate Transaction,Low,1,2961.73,2025-03-07,-984.0
+2025-03-29,4120.67,Online Purchase,4120.67,0.0,0,Legitimate Transaction,Low,1,2159.79,2025-01-25,1512.0
+2025-02-24,4507.32,Online Purchase,0.0,4507.32,0,Legitimate Transaction,Low,0,4120.67,2025-03-29,-792.0
+2025-01-27,167.21,POS Purchase,0.0,167.21,0,Legitimate Transaction,Low,0,4507.32,2025-02-24,-672.0
+2025-02-21,657.96,Cash Withdrawal,0.0,657.96,0,Legitimate Transaction,Low,0,167.21,2025-01-27,600.0
+2025-03-22,645.72,Transfer,645.72,0.0,0,Legitimate Transaction,Low,1,657.96,2025-02-21,696.0
+2025-03-27,2042.26,Cash Withdrawal,0.0,2042.26,0,Legitimate Transaction,Low,0,645.72,2025-03-22,120.0
+2025-02-26,3671.68,Bill Payment,3671.68,0.0,0,Legitimate Transaction,Low,0,2042.26,2025-03-27,-696.0
+2025-03-20,4474.97,Online Purchase,0.0,4474.97,0,Legitimate Transaction,Low,0,3671.68,2025-02-26,528.0
+2025-01-02,3815.88,POS Purchase,0.0,3815.88,0,Legitimate Transaction,Low,0,4474.97,2025-03-20,-1848.0
+2025-02-09,255.26,Cash Withdrawal,255.26,0.0,0,Legitimate Transaction,Low,1,3815.88,2025-01-02,912.0
+2025-02-27,4968.75,POS Purchase,4968.75,0.0,0,Legitimate Transaction,Low,0,255.26,2025-02-09,432.0
+2025-03-04,4530.75,POS Purchase,4530.75,0.0,0,Legitimate Transaction,Low,0,4968.75,2025-02-27,120.0
+2025-03-15,4797.11,Transfer,4797.11,0.0,0,Legitimate Transaction,Low,1,4530.75,2025-03-04,264.0
+2025-01-12,4872.31,POS Purchase,4872.31,0.0,0,Legitimate Transaction,Low,1,4797.11,2025-03-15,-1488.0
+2025-01-31,48.72,Transfer,48.72,0.0,0,Legitimate Transaction,Low,0,4872.31,2025-01-12,456.0
+2025-03-28,3748.04,Cash Withdrawal,0.0,3748.04,0,Legitimate Transaction,Low,0,48.72,2025-01-31,1344.0
+2025-03-06,603.87,Bill Payment,0.0,603.87,0,Legitimate Transaction,Low,0,3748.04,2025-03-28,-528.0
+2025-01-27,4505.31,POS Purchase,4505.31,0.0,0,Legitimate Transaction,Low,0,603.87,2025-03-06,-912.0
+2025-01-24,330.37,Transfer,0.0,330.37,0,Legitimate Transaction,Low,0,4505.31,2025-01-27,-72.0
+2025-02-13,1166.17,Online Purchase,1166.17,0.0,0,Legitimate Transaction,Low,0,330.37,2025-01-24,480.0
+2025-01-28,1028.09,Transfer,0.0,1028.09,0,Legitimate Transaction,Low,0,1166.17,2025-02-13,-384.0
+2025-01-08,4909.39,Transfer,4909.39,0.0,0,Legitimate Transaction,Low,0,1028.09,2025-01-28,-480.0
+2025-02-13,2567.91,POS Purchase,0.0,2567.91,0,Legitimate Transaction,Low,0,4909.39,2025-01-08,864.0
+2025-01-22,1462.82,Bill Payment,0.0,1462.82,0,Legitimate Transaction,Low,0,2567.91,2025-02-13,-528.0
+2025-02-14,642.05,Transfer,0.0,642.05,0,Legitimate Transaction,Low,0,1462.82,2025-01-22,552.0
+2025-02-11,1886.05,Cash Withdrawal,0.0,1886.05,0,Legitimate Transaction,Low,0,642.05,2025-02-14,-72.0
+2025-02-04,2082.84,POS Purchase,2082.84,0.0,0,Legitimate Transaction,Low,0,1886.05,2025-02-11,-168.0
+2025-02-05,3098.48,Cash Withdrawal,3098.48,0.0,0,Legitimate Transaction,Low,0,2082.84,2025-02-04,24.0
+2025-02-28,4112.53,Cash Withdrawal,0.0,4112.53,0,Legitimate Transaction,Low,0,3098.48,2025-02-05,552.0
+2025-01-19,1028.72,POS Purchase,1028.72,0.0,0,Legitimate Transaction,Low,1,4112.53,2025-02-28,-960.0
+2025-02-22,3392.12,Bill Payment,0.0,3392.12,0,Legitimate Transaction,Low,1,1028.72,2025-01-19,816.0
+2025-03-22,3748.02,Transfer,3748.02,0.0,0,Legitimate Transaction,Low,1,3392.12,2025-02-22,672.0
+2025-01-13,1464.49,Bill Payment,0.0,1464.49,0,Legitimate Transaction,Low,0,3748.02,2025-03-22,-1632.0
+2025-03-10,1831.13,Transfer,0.0,1831.13,0,Legitimate Transaction,Low,0,1464.49,2025-01-13,1344.0
+2025-03-18,3840.28,Cash Withdrawal,0.0,3840.28,0,Legitimate Transaction,Low,0,1831.13,2025-03-10,192.0
+2025-01-31,1575.41,POS Purchase,0.0,1575.41,0,Legitimate Transaction,Low,0,3840.28,2025-03-18,-1104.0
+2025-02-27,4518.11,Transfer,4518.11,0.0,0,Legitimate Transaction,Low,0,1575.41,2025-01-31,648.0
+2025-01-16,2562.85,Bill Payment,2562.85,0.0,0,Legitimate Transaction,Low,0,4518.11,2025-02-27,-1008.0
+2025-03-30,2475.32,POS Purchase,0.0,2475.32,1,Unusual Spending,Low,1,2562.85,2025-01-16,1752.0
+2025-02-18,2821.18,Online Purchase,0.0,2821.18,0,Legitimate Transaction,Low,0,2475.32,2025-03-30,-960.0
+2025-01-20,2131.04,POS Purchase,0.0,2131.04,0,Legitimate Transaction,Low,0,2821.18,2025-02-18,-696.0
+2025-01-18,1775.25,POS Purchase,0.0,1775.25,0,Legitimate Transaction,Low,1,2131.04,2025-01-20,-48.0
+2025-02-08,979.78,Online Purchase,979.78,0.0,1,Multiple Transactions,High,1,1775.25,2025-01-18,504.0
+2025-01-07,2438.37,Transfer,0.0,2438.37,0,Legitimate Transaction,Low,0,979.78,2025-02-08,-768.0
+2025-02-20,672.1,Online Purchase,672.1,0.0,0,Legitimate Transaction,Low,0,2438.37,2025-01-07,1056.0
+2025-01-11,4166.63,Online Purchase,4166.63,0.0,0,Legitimate Transaction,Low,1,672.1,2025-02-20,-960.0
+2025-03-27,3673.95,Cash Withdrawal,0.0,3673.95,0,Legitimate Transaction,Low,0,4166.63,2025-01-11,1800.0
+2025-01-15,1390.11,Online Purchase,1390.11,0.0,0,Legitimate Transaction,Low,0,3673.95,2025-03-27,-1704.0
+2025-02-13,548.61,Online Purchase,0.0,548.61,1,Location Mismatch,High,0,1390.11,2025-01-15,696.0
+2025-03-27,4088.53,Online Purchase,4088.53,0.0,0,Legitimate Transaction,Low,0,548.61,2025-02-13,1008.0
+2025-02-14,2782.99,Bill Payment,0.0,2782.99,0,Legitimate Transaction,Low,0,4088.53,2025-03-27,-984.0
+2025-02-01,3954.2,Bill Payment,0.0,3954.2,0,Legitimate Transaction,Low,1,2782.99,2025-02-14,-312.0
+2025-01-23,1435.15,Bill Payment,0.0,1435.15,0,Legitimate Transaction,Low,0,3954.2,2025-02-01,-216.0
+2025-02-24,1218.78,Transfer,1218.78,0.0,0,Legitimate Transaction,Low,0,1435.15,2025-01-23,768.0
+2025-03-02,385.29,Cash Withdrawal,0.0,385.29,1,Unusual Spending,Low,1,1218.78,2025-02-24,144.0
+2025-01-26,1311.53,Cash Withdrawal,0.0,1311.53,0,Legitimate Transaction,Low,1,385.29,2025-03-02,-840.0
+2025-01-10,3230.44,Bill Payment,0.0,3230.44,0,Legitimate Transaction,Low,0,1311.53,2025-01-26,-384.0
+2025-02-06,2845.31,Bill Payment,0.0,2845.31,0,Legitimate Transaction,Low,0,3230.44,2025-01-10,648.0
+2025-03-28,3537.84,Online Purchase,0.0,3537.84,0,Legitimate Transaction,Low,0,2845.31,2025-02-06,1200.0
+2025-02-17,1058.68,POS Purchase,1058.68,0.0,0,Legitimate Transaction,Low,0,3537.84,2025-03-28,-936.0
+2025-01-31,4376.38,Bill Payment,0.0,4376.38,0,Legitimate Transaction,Low,0,1058.68,2025-02-17,-408.0
+2025-03-01,4168.26,POS Purchase,4168.26,0.0,0,Legitimate Transaction,Low,1,4376.38,2025-01-31,696.0
+2025-01-05,1690.65,Cash Withdrawal,0.0,1690.65,0,Legitimate Transaction,Low,1,4168.26,2025-03-01,-1320.0
+2025-01-16,3268.83,POS Purchase,0.0,3268.83,0,Legitimate Transaction,Low,0,1690.65,2025-01-05,264.0
+2025-02-14,1128.23,Bill Payment,0.0,1128.23,0,Legitimate Transaction,Low,0,3268.83,2025-01-16,696.0
+2025-01-26,1765.01,Cash Withdrawal,0.0,1765.01,0,Legitimate Transaction,Low,1,1128.23,2025-02-14,-456.0
+2025-01-29,192.58,Cash Withdrawal,0.0,192.58,0,Legitimate Transaction,Low,0,1765.01,2025-01-26,72.0
+2025-01-13,1567.6,Transfer,0.0,1567.6,0,Legitimate Transaction,Low,0,192.58,2025-01-29,-384.0
+2025-01-15,2914.68,Cash Withdrawal,2914.68,0.0,0,Legitimate Transaction,Low,0,1567.6,2025-01-13,48.0
+2025-03-27,1933.24,Bill Payment,1933.24,0.0,0,Legitimate Transaction,Low,0,2914.68,2025-01-15,1704.0
+2025-02-04,2370.19,Cash Withdrawal,2370.19,0.0,0,Legitimate Transaction,Low,0,1933.24,2025-03-27,-1224.0
+2025-03-29,485.66,Cash Withdrawal,0.0,485.66,0,Legitimate Transaction,Low,1,2370.19,2025-02-04,1272.0
+2025-01-12,2905.84,Online Purchase,0.0,2905.84,0,Legitimate Transaction,Low,1,485.66,2025-03-29,-1824.0
+2025-01-28,2164.36,POS Purchase,0.0,2164.36,0,Legitimate Transaction,Low,0,2905.84,2025-01-12,384.0
+2025-03-24,3886.73,Transfer,0.0,3886.73,0,Legitimate Transaction,Low,0,2164.36,2025-01-28,1320.0
+2025-02-25,4029.54,Bill Payment,4029.54,0.0,0,Legitimate Transaction,Low,0,3886.73,2025-03-24,-648.0
+2025-03-31,3725.52,Cash Withdrawal,3725.52,0.0,1,Unusual Spending,High,0,4029.54,2025-02-25,816.0
+2025-01-19,3871.72,Cash Withdrawal,3871.72,0.0,0,Legitimate Transaction,Low,1,3725.52,2025-03-31,-1704.0
+2025-03-31,1538.25,Transfer,1538.25,0.0,0,Legitimate Transaction,Low,0,3871.72,2025-01-19,1704.0
+2025-01-30,4708.86,POS Purchase,0.0,4708.86,0,Legitimate Transaction,Low,0,1538.25,2025-03-31,-1440.0
+2025-01-23,4276.99,Cash Withdrawal,4276.99,0.0,0,Legitimate Transaction,Low,0,4708.86,2025-01-30,-168.0
+2025-03-31,4729.53,Transfer,4729.53,0.0,0,Legitimate Transaction,Low,0,4276.99,2025-01-23,1608.0
+2025-01-12,512.72,Cash Withdrawal,0.0,512.72,0,Legitimate Transaction,Low,1,4729.53,2025-03-31,-1872.0
+2025-03-25,1619.55,POS Purchase,1619.55,0.0,0,Legitimate Transaction,Low,0,512.72,2025-01-12,1728.0
+2025-01-13,3247.64,Cash Withdrawal,0.0,3247.64,0,Legitimate Transaction,Low,0,1619.55,2025-03-25,-1704.0
+2025-01-11,1199.57,Online Purchase,0.0,1199.57,0,Legitimate Transaction,Low,1,3247.64,2025-01-13,-48.0
+2025-03-17,2339.59,Bill Payment,2339.59,0.0,0,Legitimate Transaction,Low,0,1199.57,2025-01-11,1560.0
+2025-03-15,3642.93,Cash Withdrawal,3642.93,0.0,0,Legitimate Transaction,Low,1,2339.59,2025-03-17,-48.0
+2025-02-21,627.37,Transfer,0.0,627.37,0,Legitimate Transaction,Low,0,3642.93,2025-03-15,-528.0
+2025-01-11,16.52,Transfer,0.0,16.52,0,Legitimate Transaction,Low,1,627.37,2025-02-21,-984.0
+2025-03-26,3629.01,Cash Withdrawal,0.0,3629.01,0,Legitimate Transaction,Low,0,16.52,2025-01-11,1776.0
+2025-02-14,828.17,Online Purchase,0.0,828.17,0,Legitimate Transaction,Low,0,3629.01,2025-03-26,-960.0
+2025-02-04,3092.74,Online Purchase,0.0,3092.74,0,Legitimate Transaction,Low,0,828.17,2025-02-14,-240.0
+2025-01-22,467.02,POS Purchase,0.0,467.02,0,Legitimate Transaction,Low,0,3092.74,2025-02-04,-312.0
+2025-02-01,78.82,Bill Payment,78.82,0.0,0,Legitimate Transaction,Low,1,467.02,2025-01-22,240.0
+2025-02-26,664.72,Online Purchase,0.0,664.72,0,Legitimate Transaction,Low,0,78.82,2025-02-01,600.0
+2025-03-17,3377.65,Transfer,0.0,3377.65,0,Legitimate Transaction,Low,0,664.72,2025-02-26,456.0
+2025-01-24,2641.65,Bill Payment,2641.65,0.0,0,Legitimate Transaction,Low,0,3377.65,2025-03-17,-1248.0
+2025-02-17,187.83,Transfer,187.83,0.0,0,Legitimate Transaction,Low,0,2641.65,2025-01-24,576.0
+2025-01-29,4717.52,Online Purchase,4717.52,0.0,0,Legitimate Transaction,Low,0,187.83,2025-02-17,-456.0
+2025-03-03,833.32,Cash Withdrawal,833.32,0.0,0,Legitimate Transaction,Low,0,4717.52,2025-01-29,792.0
+2025-02-27,4216.42,Online Purchase,0.0,4216.42,0,Legitimate Transaction,Low,0,833.32,2025-03-03,-96.0
+2025-01-31,37.59,Online Purchase,0.0,37.59,0,Legitimate Transaction,Low,0,4216.42,2025-02-27,-648.0
+2025-03-29,2909.09,Cash Withdrawal,2909.09,0.0,0,Legitimate Transaction,Low,1,37.59,2025-01-31,1368.0
+2025-02-22,3525.1,POS Purchase,3525.1,0.0,0,Legitimate Transaction,Low,1,2909.09,2025-03-29,-840.0
+2025-01-21,3291.64,Bill Payment,3291.64,0.0,0,Legitimate Transaction,Low,0,3525.1,2025-02-22,-768.0
+2025-02-27,724.29,Transfer,724.29,0.0,0,Legitimate Transaction,Low,0,3291.64,2025-01-21,888.0
+2025-01-08,857.26,Transfer,857.26,0.0,0,Legitimate Transaction,Low,0,724.29,2025-02-27,-1200.0
+2025-01-24,4465.25,POS Purchase,4465.25,0.0,0,Legitimate Transaction,Low,0,857.26,2025-01-08,384.0
+2025-03-26,336.16,Online Purchase,0.0,336.16,0,Legitimate Transaction,Low,0,4465.25,2025-01-24,1464.0
+2025-03-25,1629.5,Bill Payment,1629.5,0.0,0,Legitimate Transaction,Low,0,336.16,2025-03-26,-24.0
+2025-02-16,1487.58,POS Purchase,0.0,1487.58,0,Legitimate Transaction,Low,1,1629.5,2025-03-25,-888.0
+2025-03-13,1210.84,POS Purchase,0.0,1210.84,0,Legitimate Transaction,Low,0,1487.58,2025-02-16,600.0
+2025-01-24,4031.56,POS Purchase,0.0,4031.56,0,Legitimate Transaction,Low,0,1210.84,2025-03-13,-1152.0
+2025-03-07,964.15,Online Purchase,0.0,964.15,0,Legitimate Transaction,Low,0,4031.56,2025-01-24,1008.0
+2025-03-19,659.51,Transfer,0.0,659.51,0,Legitimate Transaction,Low,0,964.15,2025-03-07,288.0
+2025-01-02,2464.8,POS Purchase,2464.8,0.0,0,Legitimate Transaction,Low,0,659.51,2025-03-19,-1824.0
+2025-03-11,4102.86,POS Purchase,4102.86,0.0,0,Legitimate Transaction,Low,0,2464.8,2025-01-02,1632.0
+2025-03-25,3232.53,Cash Withdrawal,0.0,3232.53,0,Legitimate Transaction,Low,0,4102.86,2025-03-11,336.0
+2025-02-22,2673.48,POS Purchase,2673.48,0.0,0,Legitimate Transaction,Low,1,3232.53,2025-03-25,-744.0
+2025-02-14,2371.17,Bill Payment,2371.17,0.0,0,Legitimate Transaction,Low,0,2673.48,2025-02-22,-192.0
+2025-03-07,94.99,Bill Payment,94.99,0.0,0,Legitimate Transaction,Low,0,2371.17,2025-02-14,504.0
+2025-03-15,4418.0,Online Purchase,4418.0,0.0,0,Legitimate Transaction,Low,1,94.99,2025-03-07,192.0
+2025-01-08,2583.97,POS Purchase,2583.97,0.0,0,Legitimate Transaction,Low,0,4418.0,2025-03-15,-1584.0
+2025-03-09,786.58,Bill Payment,0.0,786.58,0,Legitimate Transaction,Low,1,2583.97,2025-01-08,1440.0
+2025-01-17,2336.18,Online Purchase,0.0,2336.18,0,Legitimate Transaction,Low,0,786.58,2025-03-09,-1224.0
+2025-02-25,286.83,Cash Withdrawal,286.83,0.0,0,Legitimate Transaction,Low,0,2336.18,2025-01-17,936.0
+2025-03-27,1218.49,Online Purchase,1218.49,0.0,0,Legitimate Transaction,Low,0,286.83,2025-02-25,720.0
+2025-02-19,2679.19,Transfer,0.0,2679.19,0,Legitimate Transaction,Low,0,1218.49,2025-03-27,-864.0
+2025-02-26,52.06,POS Purchase,52.06,0.0,0,Legitimate Transaction,Low,0,2679.19,2025-02-19,168.0
+2025-02-07,2223.09,Cash Withdrawal,0.0,2223.09,0,Legitimate Transaction,Low,0,52.06,2025-02-26,-456.0
+2025-02-14,2244.78,POS Purchase,0.0,2244.78,0,Legitimate Transaction,Low,0,2223.09,2025-02-07,168.0
+2025-01-15,4683.72,Cash Withdrawal,4683.72,0.0,0,Legitimate Transaction,Low,0,2244.78,2025-02-14,-720.0
+2025-03-06,511.03,Transfer,0.0,511.03,0,Legitimate Transaction,Low,0,4683.72,2025-01-15,1200.0
+2025-02-01,3618.05,POS Purchase,0.0,3618.05,0,Legitimate Transaction,Low,1,511.03,2025-03-06,-792.0
+2025-01-30,1176.44,Cash Withdrawal,1176.44,0.0,0,Legitimate Transaction,Low,0,3618.05,2025-02-01,-48.0
+2025-02-12,3952.6,Online Purchase,0.0,3952.6,0,Legitimate Transaction,Low,0,1176.44,2025-01-30,312.0
+2025-02-27,1061.91,Transfer,0.0,1061.91,0,Legitimate Transaction,Low,0,3952.6,2025-02-12,360.0
+2025-03-28,4833.25,Online Purchase,4833.25,0.0,0,Legitimate Transaction,Low,0,1061.91,2025-02-27,696.0
+2025-03-06,2169.62,Online Purchase,2169.62,0.0,0,Legitimate Transaction,Low,0,4833.25,2025-03-28,-528.0
+2025-02-19,1903.66,Cash Withdrawal,0.0,1903.66,0,Legitimate Transaction,Low,0,2169.62,2025-03-06,-360.0
+2025-02-16,3098.88,Online Purchase,3098.88,0.0,0,Legitimate Transaction,Low,1,1903.66,2025-02-19,-72.0
+2025-02-11,1749.2,POS Purchase,0.0,1749.2,0,Legitimate Transaction,Low,0,3098.88,2025-02-16,-120.0
+2025-03-26,128.21,Transfer,0.0,128.21,0,Legitimate Transaction,Low,0,1749.2,2025-02-11,1032.0
+2025-03-01,329.34,Cash Withdrawal,329.34,0.0,0,Legitimate Transaction,Low,1,128.21,2025-03-26,-600.0
+2025-03-05,1581.75,Transfer,1581.75,0.0,0,Legitimate Transaction,Low,0,329.34,2025-03-01,96.0
+2025-01-20,1432.55,POS Purchase,0.0,1432.55,0,Legitimate Transaction,Low,0,1581.75,2025-03-05,-1056.0
+2025-02-28,2715.07,Bill Payment,0.0,2715.07,0,Legitimate Transaction,Low,0,1432.55,2025-01-20,936.0
+2025-03-23,1434.4,Online Purchase,1434.4,0.0,0,Legitimate Transaction,Low,1,2715.07,2025-02-28,552.0
+2025-03-14,4382.87,Bill Payment,4382.87,0.0,0,Legitimate Transaction,Low,0,1434.4,2025-03-23,-216.0
+2025-03-07,3519.93,POS Purchase,3519.93,0.0,0,Legitimate Transaction,Low,0,4382.87,2025-03-14,-168.0
+2025-02-18,1552.44,Cash Withdrawal,0.0,1552.44,0,Legitimate Transaction,Low,0,3519.93,2025-03-07,-408.0
+2025-03-27,1304.4,Cash Withdrawal,0.0,1304.4,0,Legitimate Transaction,Low,0,1552.44,2025-02-18,888.0
+2025-03-22,1830.13,Cash Withdrawal,0.0,1830.13,0,Legitimate Transaction,Low,1,1304.4,2025-03-27,-120.0
+2025-02-23,2889.33,POS Purchase,2889.33,0.0,0,Legitimate Transaction,Low,1,1830.13,2025-03-22,-648.0
+2025-01-08,1558.12,Online Purchase,0.0,1558.12,1,Location Mismatch,High,0,2889.33,2025-02-23,-1104.0
+2025-03-11,2993.79,Transfer,0.0,2993.79,0,Legitimate Transaction,Low,0,1558.12,2025-01-08,1488.0
+2025-03-09,1843.64,POS Purchase,0.0,1843.64,0,Legitimate Transaction,Low,1,2993.79,2025-03-11,-48.0
+2025-02-26,3831.21,Online Purchase,0.0,3831.21,0,Legitimate Transaction,Low,0,1843.64,2025-03-09,-264.0
+2025-01-20,2602.23,Bill Payment,0.0,2602.23,0,Legitimate Transaction,Low,0,3831.21,2025-02-26,-888.0
+2025-01-04,2055.21,Online Purchase,2055.21,0.0,0,Legitimate Transaction,Low,1,2602.23,2025-01-20,-384.0
+2025-03-16,2310.95,Bill Payment,2310.95,0.0,0,Legitimate Transaction,Low,1,2055.21,2025-01-04,1704.0
+2025-03-31,3780.42,Cash Withdrawal,0.0,3780.42,0,Legitimate Transaction,Low,0,2310.95,2025-03-16,360.0
+2025-02-01,4938.88,Bill Payment,4938.88,0.0,0,Legitimate Transaction,Low,1,3780.42,2025-03-31,-1392.0
+2025-03-15,2031.83,POS Purchase,0.0,2031.83,0,Legitimate Transaction,Low,1,4938.88,2025-02-01,1008.0
+2025-01-23,249.77,POS Purchase,0.0,249.77,0,Legitimate Transaction,Low,0,2031.83,2025-03-15,-1224.0
+2025-03-02,4250.68,Online Purchase,4250.68,0.0,0,Legitimate Transaction,Low,1,249.77,2025-01-23,912.0
+2025-02-16,1119.3,Online Purchase,1119.3,0.0,0,Legitimate Transaction,Low,1,4250.68,2025-03-02,-336.0
+2025-02-28,4026.51,Transfer,4026.51,0.0,0,Legitimate Transaction,Low,0,1119.3,2025-02-16,288.0
+2025-03-15,4837.64,Bill Payment,0.0,4837.64,0,Legitimate Transaction,Low,1,4026.51,2025-02-28,360.0
+2025-01-03,3337.06,Transfer,3337.06,0.0,0,Legitimate Transaction,Low,0,4837.64,2025-03-15,-1704.0
+2025-03-21,1660.23,Transfer,0.0,1660.23,0,Legitimate Transaction,Low,0,3337.06,2025-01-03,1848.0
+2025-01-28,2878.11,Online Purchase,2878.11,0.0,0,Legitimate Transaction,Low,0,1660.23,2025-03-21,-1248.0
+2025-03-23,1310.49,POS Purchase,1310.49,0.0,0,Legitimate Transaction,Low,1,2878.11,2025-01-28,1296.0
+2025-03-12,4962.31,Transfer,4962.31,0.0,0,Legitimate Transaction,Low,0,1310.49,2025-03-23,-264.0
+2025-02-05,2200.0,Cash Withdrawal,0.0,2200.0,0,Legitimate Transaction,Low,0,4962.31,2025-03-12,-840.0
+2025-02-06,76.89,Bill Payment,0.0,76.89,0,Legitimate Transaction,Low,0,2200.0,2025-02-05,24.0
+2025-03-08,993.85,Bill Payment,993.85,0.0,0,Legitimate Transaction,Low,1,76.89,2025-02-06,720.0
+2025-01-16,294.7,Online Purchase,294.7,0.0,0,Legitimate Transaction,Low,0,993.85,2025-03-08,-1224.0
+2025-03-16,2401.97,Transfer,2401.97,0.0,1,Card Cloning,High,1,294.7,2025-01-16,1416.0
+2025-02-19,921.83,Transfer,921.83,0.0,0,Legitimate Transaction,Low,0,2401.97,2025-03-16,-600.0
+2025-01-22,2420.27,Cash Withdrawal,2420.27,0.0,0,Legitimate Transaction,Low,0,921.83,2025-02-19,-672.0
+2025-01-18,754.87,Cash Withdrawal,754.87,0.0,0,Legitimate Transaction,Low,1,2420.27,2025-01-22,-96.0
+2025-02-13,3669.35,Online Purchase,0.0,3669.35,0,Legitimate Transaction,Low,0,754.87,2025-01-18,624.0
+2025-03-29,4784.9,Bill Payment,4784.9,0.0,0,Legitimate Transaction,Low,1,3669.35,2025-02-13,1056.0
+2025-03-04,1737.97,Cash Withdrawal,0.0,1737.97,0,Legitimate Transaction,Low,0,4784.9,2025-03-29,-600.0
+2025-03-08,3637.47,Cash Withdrawal,3637.47,0.0,0,Legitimate Transaction,Low,1,1737.97,2025-03-04,96.0
+2025-01-22,1253.36,Cash Withdrawal,0.0,1253.36,1,Card Cloning,High,0,3637.47,2025-03-08,-1080.0
+2025-02-10,1449.14,Online Purchase,0.0,1449.14,1,Location Mismatch,High,0,1253.36,2025-01-22,456.0
+2025-03-24,512.64,Online Purchase,512.64,0.0,0,Legitimate Transaction,Low,0,1449.14,2025-02-10,1008.0
+2025-01-05,4983.58,Cash Withdrawal,4983.58,0.0,0,Legitimate Transaction,Low,1,512.64,2025-03-24,-1872.0
+2025-03-14,3672.54,POS Purchase,3672.54,0.0,0,Legitimate Transaction,Low,0,4983.58,2025-01-05,1632.0
+2025-02-02,3664.82,Cash Withdrawal,3664.82,0.0,0,Legitimate Transaction,Low,1,3672.54,2025-03-14,-960.0
+2025-01-20,3945.43,Bill Payment,0.0,3945.43,0,Legitimate Transaction,Low,0,3664.82,2025-02-02,-312.0
+2025-01-18,3812.81,Transfer,0.0,3812.81,0,Legitimate Transaction,Low,1,3945.43,2025-01-20,-48.0
+2025-03-13,1720.94,Cash Withdrawal,1720.94,0.0,0,Legitimate Transaction,Low,0,3812.81,2025-01-18,1296.0
+2025-01-04,1294.07,Transfer,1294.07,0.0,0,Legitimate Transaction,Low,1,1720.94,2025-03-13,-1632.0
+2025-01-08,1283.89,POS Purchase,0.0,1283.89,0,Legitimate Transaction,Low,0,1294.07,2025-01-04,96.0
+2025-02-28,152.46,Online Purchase,0.0,152.46,0,Legitimate Transaction,Low,0,1283.89,2025-01-08,1224.0
+2025-03-01,1325.63,POS Purchase,0.0,1325.63,0,Legitimate Transaction,Low,1,152.46,2025-02-28,24.0
+2025-02-26,3571.41,Bill Payment,0.0,3571.41,0,Legitimate Transaction,Low,0,1325.63,2025-03-01,-72.0
+2025-03-02,3975.72,Transfer,0.0,3975.72,1,High-Risk Merchant,High,1,3571.41,2025-02-26,96.0
+2025-01-12,1708.03,Cash Withdrawal,0.0,1708.03,0,Legitimate Transaction,Low,1,3975.72,2025-03-02,-1176.0
+2025-01-31,3478.99,Transfer,0.0,3478.99,0,Legitimate Transaction,Low,0,1708.03,2025-01-12,456.0
+2025-01-27,3266.92,Bill Payment,0.0,3266.92,0,Legitimate Transaction,Low,0,3478.99,2025-01-31,-96.0
+2025-03-18,3148.85,Transfer,3148.85,0.0,0,Legitimate Transaction,Low,0,3266.92,2025-01-27,1200.0
+2025-02-08,2963.26,Transfer,2963.26,0.0,0,Legitimate Transaction,Low,1,3148.85,2025-03-18,-912.0
+2025-01-26,277.87,Online Purchase,0.0,277.87,0,Legitimate Transaction,Low,1,2963.26,2025-02-08,-312.0
+2025-02-25,1319.81,Transfer,0.0,1319.81,0,Legitimate Transaction,Low,0,277.87,2025-01-26,720.0
+2025-01-28,102.65,Bill Payment,102.65,0.0,0,Legitimate Transaction,Low,0,1319.81,2025-02-25,-672.0
+2025-02-04,801.74,POS Purchase,801.74,0.0,0,Legitimate Transaction,Low,0,102.65,2025-01-28,168.0
+2025-01-16,1604.2,Transfer,0.0,1604.2,0,Legitimate Transaction,Low,0,801.74,2025-02-04,-456.0
+2025-02-23,261.4,POS Purchase,261.4,0.0,0,Legitimate Transaction,Low,1,1604.2,2025-01-16,912.0
+2025-03-04,1170.09,Bill Payment,0.0,1170.09,0,Legitimate Transaction,Low,0,261.4,2025-02-23,216.0
+2025-03-24,955.18,Transfer,0.0,955.18,0,Legitimate Transaction,Low,0,1170.09,2025-03-04,480.0
+2025-03-25,3210.82,Cash Withdrawal,3210.82,0.0,0,Legitimate Transaction,Low,0,955.18,2025-03-24,24.0
+2025-01-03,3072.06,Cash Withdrawal,0.0,3072.06,0,Legitimate Transaction,Low,0,3210.82,2025-03-25,-1944.0
+2025-03-29,3330.8,Transfer,0.0,3330.8,0,Legitimate Transaction,Low,1,3072.06,2025-01-03,2040.0
+2025-02-04,4208.73,Transfer,4208.73,0.0,0,Legitimate Transaction,Low,0,3330.8,2025-03-29,-1272.0
+2025-03-26,609.59,POS Purchase,609.59,0.0,1,Multiple Transactions,High,0,4208.73,2025-02-04,1200.0
+2025-02-17,285.39,Transfer,285.39,0.0,0,Legitimate Transaction,Low,0,609.59,2025-03-26,-888.0
+2025-03-23,4552.83,Bill Payment,4552.83,0.0,0,Legitimate Transaction,Low,1,285.39,2025-02-17,816.0
+2025-03-02,4615.08,Bill Payment,4615.08,0.0,0,Legitimate Transaction,Low,1,4552.83,2025-03-23,-504.0
+2025-02-03,3099.0,POS Purchase,3099.0,0.0,0,Legitimate Transaction,Low,0,4615.08,2025-03-02,-648.0
+2025-02-26,4220.6,POS Purchase,0.0,4220.6,0,Legitimate Transaction,Low,0,3099.0,2025-02-03,552.0
+2025-01-19,3735.69,Transfer,3735.69,0.0,0,Legitimate Transaction,Low,1,4220.6,2025-02-26,-912.0
+2025-02-06,1426.75,Cash Withdrawal,0.0,1426.75,0,Legitimate Transaction,Low,0,3735.69,2025-01-19,432.0
+2025-01-11,4718.52,Online Purchase,4718.52,0.0,0,Legitimate Transaction,Low,1,1426.75,2025-02-06,-624.0
+2025-01-13,1662.57,Bill Payment,1662.57,0.0,0,Legitimate Transaction,Low,0,4718.52,2025-01-11,48.0
+2025-01-22,365.83,Transfer,0.0,365.83,0,Legitimate Transaction,Low,0,1662.57,2025-01-13,216.0
+2025-01-25,3359.81,Bill Payment,3359.81,0.0,0,Legitimate Transaction,Low,1,365.83,2025-01-22,72.0
+2025-01-14,4280.51,Transfer,0.0,4280.51,0,Legitimate Transaction,Low,0,3359.81,2025-01-25,-264.0
+2025-01-10,4567.58,POS Purchase,0.0,4567.58,0,Legitimate Transaction,Low,0,4280.51,2025-01-14,-96.0
+2025-02-25,3118.38,POS Purchase,0.0,3118.38,0,Legitimate Transaction,Low,0,4567.58,2025-01-10,1104.0
+2025-03-29,1680.06,Cash Withdrawal,1680.06,0.0,0,Legitimate Transaction,Low,1,3118.38,2025-02-25,768.0
+2025-03-15,3026.2,POS Purchase,3026.2,0.0,0,Legitimate Transaction,Low,1,1680.06,2025-03-29,-336.0
+2025-02-08,3063.22,Bill Payment,0.0,3063.22,0,Legitimate Transaction,Low,1,3026.2,2025-03-15,-840.0
+2025-01-11,4301.98,Online Purchase,4301.98,0.0,0,Legitimate Transaction,Low,1,3063.22,2025-02-08,-672.0
+2025-02-22,501.82,Transfer,0.0,501.82,0,Legitimate Transaction,Low,1,4301.98,2025-01-11,1008.0
+2025-01-09,3454.87,Online Purchase,0.0,3454.87,1,Location Mismatch,Low,0,501.82,2025-02-22,-1056.0
+2025-02-27,2592.24,Bill Payment,0.0,2592.24,0,Legitimate Transaction,Low,0,3454.87,2025-01-09,1176.0
+2025-03-17,3330.49,Transfer,0.0,3330.49,0,Legitimate Transaction,Low,0,2592.24,2025-02-27,432.0
+2025-02-26,1255.21,Bill Payment,0.0,1255.21,0,Legitimate Transaction,Low,0,3330.49,2025-03-17,-456.0
+2025-03-11,1976.32,Cash Withdrawal,0.0,1976.32,0,Legitimate Transaction,Low,0,1255.21,2025-02-26,312.0
+2025-03-17,4224.9,Cash Withdrawal,0.0,4224.9,0,Legitimate Transaction,Low,0,1976.32,2025-03-11,144.0
+2025-02-07,812.24,Transfer,0.0,812.24,0,Legitimate Transaction,Low,0,4224.9,2025-03-17,-912.0
+2025-02-20,4067.82,POS Purchase,4067.82,0.0,0,Legitimate Transaction,Low,0,812.24,2025-02-07,312.0
+2025-02-17,3348.8,Bill Payment,0.0,3348.8,0,Legitimate Transaction,Low,0,4067.82,2025-02-20,-72.0
+2025-01-11,1575.15,POS Purchase,1575.15,0.0,0,Legitimate Transaction,Low,1,3348.8,2025-02-17,-888.0
+2025-01-28,4370.19,Online Purchase,4370.19,0.0,0,Legitimate Transaction,Low,0,1575.15,2025-01-11,408.0
+2025-03-15,3323.57,Transfer,0.0,3323.57,0,Legitimate Transaction,Low,1,4370.19,2025-01-28,1104.0
+2025-02-21,425.62,Transfer,425.62,0.0,0,Legitimate Transaction,Low,0,3323.57,2025-03-15,-528.0
+2025-02-02,1240.07,Transfer,1240.07,0.0,0,Legitimate Transaction,Low,1,425.62,2025-02-21,-456.0
+2025-03-02,3757.54,Transfer,3757.54,0.0,1,Location Mismatch,Low,1,1240.07,2025-02-02,672.0
+2025-02-14,2325.65,POS Purchase,2325.65,0.0,0,Legitimate Transaction,Low,0,3757.54,2025-03-02,-384.0
+2025-02-19,3932.66,Bill Payment,3932.66,0.0,0,Legitimate Transaction,Low,0,2325.65,2025-02-14,120.0
+2025-02-25,4124.47,Bill Payment,4124.47,0.0,0,Legitimate Transaction,Low,0,3932.66,2025-02-19,144.0
+2025-01-14,1543.63,Transfer,1543.63,0.0,0,Legitimate Transaction,Low,0,4124.47,2025-02-25,-1008.0
+2025-02-08,4368.79,Bill Payment,0.0,4368.79,0,Legitimate Transaction,Low,1,1543.63,2025-01-14,600.0
+2025-02-04,933.99,Transfer,933.99,0.0,0,Legitimate Transaction,Low,0,4368.79,2025-02-08,-96.0
+2025-02-11,3173.91,Transfer,3173.91,0.0,0,Legitimate Transaction,Low,0,933.99,2025-02-04,168.0
+2025-02-15,2106.86,Bill Payment,0.0,2106.86,0,Legitimate Transaction,Low,1,3173.91,2025-02-11,96.0
+2025-03-17,3386.75,Bill Payment,3386.75,0.0,0,Legitimate Transaction,Low,0,2106.86,2025-02-15,720.0
+2025-03-02,2321.24,Transfer,2321.24,0.0,0,Legitimate Transaction,Low,1,3386.75,2025-03-17,-360.0
+2025-03-01,2197.77,Bill Payment,0.0,2197.77,0,Legitimate Transaction,Low,1,2321.24,2025-03-02,-24.0
+2025-01-29,4376.77,Online Purchase,0.0,4376.77,0,Legitimate Transaction,Low,0,2197.77,2025-03-01,-744.0
+2025-01-29,4393.9,Bill Payment,0.0,4393.9,0,Legitimate Transaction,Low,0,4376.77,2025-01-29,0.0
+2025-01-27,4865.3,POS Purchase,0.0,4865.3,0,Legitimate Transaction,Low,0,4393.9,2025-01-29,-48.0
+2025-02-17,2076.85,Transfer,0.0,2076.85,0,Legitimate Transaction,Low,0,4865.3,2025-01-27,504.0
+2025-03-18,4796.31,Transfer,0.0,4796.31,1,Location Mismatch,Low,0,2076.85,2025-02-17,696.0
+2025-01-07,4579.12,POS Purchase,4579.12,0.0,0,Legitimate Transaction,Low,0,4796.31,2025-03-18,-1680.0
+2025-03-07,3577.19,Transfer,3577.19,0.0,0,Legitimate Transaction,Low,0,4579.12,2025-01-07,1416.0
+2025-02-25,3642.17,POS Purchase,0.0,3642.17,0,Legitimate Transaction,Low,0,3577.19,2025-03-07,-240.0
+2025-02-16,2966.54,Online Purchase,0.0,2966.54,0,Legitimate Transaction,Low,1,3642.17,2025-02-25,-216.0
+2025-03-31,814.43,Online Purchase,814.43,0.0,0,Legitimate Transaction,Low,0,2966.54,2025-02-16,1032.0
+2025-03-18,1857.0,Transfer,0.0,1857.0,1,Card Cloning,Low,0,814.43,2025-03-31,-312.0
+2025-03-01,2316.51,POS Purchase,0.0,2316.51,0,Legitimate Transaction,Low,1,1857.0,2025-03-18,-408.0
+2025-01-12,3322.58,POS Purchase,0.0,3322.58,0,Legitimate Transaction,Low,1,2316.51,2025-03-01,-1152.0
+2025-02-03,1215.27,Cash Withdrawal,1215.27,0.0,0,Legitimate Transaction,Low,0,3322.58,2025-01-12,528.0
+2025-03-28,4915.89,Bill Payment,4915.89,0.0,0,Legitimate Transaction,Low,0,1215.27,2025-02-03,1272.0
+2025-01-28,3819.56,Cash Withdrawal,0.0,3819.56,0,Legitimate Transaction,Low,0,4915.89,2025-03-28,-1416.0
+2025-01-05,1548.17,Cash Withdrawal,1548.17,0.0,0,Legitimate Transaction,Low,1,3819.56,2025-01-28,-552.0
+2025-02-15,3446.41,Bill Payment,0.0,3446.41,0,Legitimate Transaction,Low,1,1548.17,2025-01-05,984.0
+2025-01-01,984.61,Bill Payment,0.0,984.61,0,Legitimate Transaction,Low,0,3446.41,2025-02-15,-1080.0
+2025-01-17,3232.68,Bill Payment,0.0,3232.68,0,Legitimate Transaction,Low,0,984.61,2025-01-01,384.0
+2025-02-04,2734.0,Cash Withdrawal,2734.0,0.0,0,Legitimate Transaction,Low,0,3232.68,2025-01-17,432.0
+2025-03-17,1348.83,Online Purchase,0.0,1348.83,0,Legitimate Transaction,Low,0,2734.0,2025-02-04,984.0
+2025-02-24,4875.52,Cash Withdrawal,0.0,4875.52,0,Legitimate Transaction,Low,0,1348.83,2025-03-17,-504.0
+2025-02-05,3579.92,Transfer,0.0,3579.92,0,Legitimate Transaction,Low,0,4875.52,2025-02-24,-456.0
+2025-02-18,4516.89,Transfer,4516.89,0.0,0,Legitimate Transaction,Low,0,3579.92,2025-02-05,312.0
+2025-02-15,1358.1,Online Purchase,0.0,1358.1,0,Legitimate Transaction,Low,1,4516.89,2025-02-18,-72.0
+2025-01-17,4247.32,Cash Withdrawal,4247.32,0.0,0,Legitimate Transaction,Low,0,1358.1,2025-02-15,-696.0
+2025-02-07,2091.18,Cash Withdrawal,2091.18,0.0,0,Legitimate Transaction,Low,0,4247.32,2025-01-17,504.0
+2025-03-16,1593.15,POS Purchase,0.0,1593.15,0,Legitimate Transaction,Low,1,2091.18,2025-02-07,888.0
+2025-02-12,3031.09,Cash Withdrawal,3031.09,0.0,0,Legitimate Transaction,Low,0,1593.15,2025-03-16,-768.0
+2025-01-17,3094.15,Bill Payment,3094.15,0.0,0,Legitimate Transaction,Low,0,3031.09,2025-02-12,-624.0
+2025-02-10,947.99,Online Purchase,947.99,0.0,0,Legitimate Transaction,Low,0,3094.15,2025-01-17,576.0
+2025-01-23,2053.52,POS Purchase,0.0,2053.52,0,Legitimate Transaction,Low,0,947.99,2025-02-10,-432.0
+2025-02-17,2866.09,Bill Payment,2866.09,0.0,0,Legitimate Transaction,Low,0,2053.52,2025-01-23,600.0
+2025-01-20,2575.43,Bill Payment,0.0,2575.43,0,Legitimate Transaction,Low,0,2866.09,2025-02-17,-672.0
+2025-02-13,4939.23,Online Purchase,0.0,4939.23,0,Legitimate Transaction,Low,0,2575.43,2025-01-20,576.0
+2025-03-05,1397.38,Transfer,0.0,1397.38,0,Legitimate Transaction,Low,0,4939.23,2025-02-13,480.0
+2025-03-29,1791.33,Transfer,0.0,1791.33,0,Legitimate Transaction,Low,1,1397.38,2025-03-05,576.0
+2025-03-03,3163.15,Transfer,0.0,3163.15,0,Legitimate Transaction,Low,0,1791.33,2025-03-29,-624.0
+2025-03-14,3987.58,POS Purchase,3987.58,0.0,0,Legitimate Transaction,Low,0,3163.15,2025-03-03,264.0
+2025-01-27,2349.06,Cash Withdrawal,0.0,2349.06,0,Legitimate Transaction,Low,0,3987.58,2025-03-14,-1104.0
+2025-03-18,3155.64,Transfer,0.0,3155.64,0,Legitimate Transaction,Low,0,2349.06,2025-01-27,1200.0
+2025-03-10,3774.01,Online Purchase,0.0,3774.01,0,Legitimate Transaction,Low,0,3155.64,2025-03-18,-192.0
+2025-01-20,299.27,Cash Withdrawal,299.27,0.0,0,Legitimate Transaction,Low,0,3774.01,2025-03-10,-1176.0
+2025-03-20,4804.41,Bill Payment,0.0,4804.41,0,Legitimate Transaction,Low,0,299.27,2025-01-20,1416.0
+2025-02-22,1509.69,Transfer,1509.69,0.0,0,Legitimate Transaction,Low,1,4804.41,2025-03-20,-624.0
+2025-01-02,2313.38,Transfer,0.0,2313.38,0,Legitimate Transaction,Low,0,1509.69,2025-02-22,-1224.0
+2025-02-25,1643.43,Bill Payment,0.0,1643.43,0,Legitimate Transaction,Low,0,2313.38,2025-01-02,1296.0
+2025-03-21,219.5,POS Purchase,0.0,219.5,0,Legitimate Transaction,Low,0,1643.43,2025-02-25,576.0
+2025-03-28,1448.42,POS Purchase,1448.42,0.0,0,Legitimate Transaction,Low,0,219.5,2025-03-21,168.0
+2025-03-04,4809.31,Cash Withdrawal,0.0,4809.31,0,Legitimate Transaction,Low,0,1448.42,2025-03-28,-576.0
+2025-02-01,139.51,Bill Payment,139.51,0.0,0,Legitimate Transaction,Low,1,4809.31,2025-03-04,-744.0
+2025-01-02,2563.71,Cash Withdrawal,0.0,2563.71,0,Legitimate Transaction,Low,0,139.51,2025-02-01,-720.0
+2025-03-30,4139.41,Cash Withdrawal,0.0,4139.41,0,Legitimate Transaction,Low,1,2563.71,2025-01-02,2088.0
+2025-03-18,1973.62,Bill Payment,1973.62,0.0,0,Legitimate Transaction,Low,0,4139.41,2025-03-30,-288.0
+2025-01-06,15.38,Online Purchase,0.0,15.38,0,Legitimate Transaction,Low,0,1973.62,2025-03-18,-1704.0
+2025-02-11,4886.43,Cash Withdrawal,4886.43,0.0,0,Legitimate Transaction,Low,0,15.38,2025-01-06,864.0
+2025-01-29,914.4,Online Purchase,914.4,0.0,0,Legitimate Transaction,Low,0,4886.43,2025-02-11,-312.0
+2025-01-16,471.57,POS Purchase,0.0,471.57,0,Legitimate Transaction,Low,0,914.4,2025-01-29,-312.0
+2025-02-11,4168.19,Online Purchase,4168.19,0.0,0,Legitimate Transaction,Low,0,471.57,2025-01-16,624.0
+2025-03-31,518.94,Online Purchase,518.94,0.0,0,Legitimate Transaction,Low,0,4168.19,2025-02-11,1152.0
+2025-01-26,4757.09,POS Purchase,4757.09,0.0,0,Legitimate Transaction,Low,1,518.94,2025-03-31,-1536.0
+2025-02-07,4883.75,Bill Payment,4883.75,0.0,0,Legitimate Transaction,Low,0,4757.09,2025-01-26,288.0
+2025-01-31,2804.56,Transfer,2804.56,0.0,0,Legitimate Transaction,Low,0,4883.75,2025-02-07,-168.0
+2025-01-03,3142.57,Transfer,3142.57,0.0,0,Legitimate Transaction,Low,0,2804.56,2025-01-31,-672.0
+2025-02-07,1298.95,Cash Withdrawal,0.0,1298.95,0,Legitimate Transaction,Low,0,3142.57,2025-01-03,840.0
+2025-02-06,1630.06,Transfer,1630.06,0.0,0,Legitimate Transaction,Low,0,1298.95,2025-02-07,-24.0
+2025-01-17,2676.48,Online Purchase,2676.48,0.0,0,Legitimate Transaction,Low,0,1630.06,2025-02-06,-480.0
+2025-01-23,2019.01,Cash Withdrawal,2019.01,0.0,0,Legitimate Transaction,Low,0,2676.48,2025-01-17,144.0
+2025-02-08,3473.75,Bill Payment,3473.75,0.0,0,Legitimate Transaction,Low,1,2019.01,2025-01-23,384.0
+2025-02-06,1087.15,Online Purchase,0.0,1087.15,0,Legitimate Transaction,Low,0,3473.75,2025-02-08,-48.0
+2025-02-20,3446.39,Transfer,0.0,3446.39,0,Legitimate Transaction,Low,0,1087.15,2025-02-06,336.0
+2025-02-15,3593.78,Bill Payment,0.0,3593.78,0,Legitimate Transaction,Low,1,3446.39,2025-02-20,-120.0
+2025-01-14,570.62,Cash Withdrawal,570.62,0.0,0,Legitimate Transaction,Low,0,3593.78,2025-02-15,-768.0
+2025-02-25,235.66,Bill Payment,235.66,0.0,0,Legitimate Transaction,Low,0,570.62,2025-01-14,1008.0
+2025-01-27,3011.54,Transfer,0.0,3011.54,0,Legitimate Transaction,Low,0,235.66,2025-02-25,-696.0
+2025-03-12,3743.25,Online Purchase,0.0,3743.25,0,Legitimate Transaction,Low,0,3011.54,2025-01-27,1056.0
+2025-02-19,3645.2,POS Purchase,0.0,3645.2,1,Multiple Transactions,High,0,3743.25,2025-03-12,-504.0
+2025-02-28,2081.79,Online Purchase,2081.79,0.0,0,Legitimate Transaction,Low,0,3645.2,2025-02-19,216.0
+2025-02-13,4554.21,Online Purchase,4554.21,0.0,0,Legitimate Transaction,Low,0,2081.79,2025-02-28,-360.0
+2025-01-22,2740.92,Cash Withdrawal,2740.92,0.0,0,Legitimate Transaction,Low,0,4554.21,2025-02-13,-528.0
+2025-02-16,4688.89,Transfer,0.0,4688.89,0,Legitimate Transaction,Low,1,2740.92,2025-01-22,600.0
+2025-01-17,166.83,POS Purchase,0.0,166.83,0,Legitimate Transaction,Low,0,4688.89,2025-02-16,-720.0
+2025-03-03,1308.01,Transfer,0.0,1308.01,0,Legitimate Transaction,Low,0,166.83,2025-01-17,1080.0
+2025-01-07,4423.72,POS Purchase,0.0,4423.72,0,Legitimate Transaction,Low,0,1308.01,2025-03-03,-1320.0
+2025-02-11,1744.02,POS Purchase,0.0,1744.02,0,Legitimate Transaction,Low,0,4423.72,2025-01-07,840.0
+2025-01-11,3488.63,Cash Withdrawal,0.0,3488.63,0,Legitimate Transaction,Low,1,1744.02,2025-02-11,-744.0
+2025-03-16,3666.68,Bill Payment,3666.68,0.0,0,Legitimate Transaction,Low,1,3488.63,2025-01-11,1536.0
+2025-03-19,1857.56,Online Purchase,0.0,1857.56,0,Legitimate Transaction,Low,0,3666.68,2025-03-16,72.0
+2025-01-15,4834.61,POS Purchase,4834.61,0.0,0,Legitimate Transaction,Low,0,1857.56,2025-03-19,-1512.0
+2025-01-19,3571.09,POS Purchase,3571.09,0.0,0,Legitimate Transaction,Low,1,4834.61,2025-01-15,96.0
+2025-03-20,4545.15,POS Purchase,0.0,4545.15,0,Legitimate Transaction,Low,0,3571.09,2025-01-19,1440.0
+2025-03-11,4937.86,Bill Payment,0.0,4937.86,0,Legitimate Transaction,Low,0,4545.15,2025-03-20,-216.0
+2025-03-17,592.27,Transfer,592.27,0.0,0,Legitimate Transaction,Low,0,4937.86,2025-03-11,144.0
+2025-02-15,2248.15,Bill Payment,0.0,2248.15,0,Legitimate Transaction,Low,1,592.27,2025-03-17,-720.0
+2025-03-14,1031.5,Cash Withdrawal,1031.5,0.0,0,Legitimate Transaction,Low,0,2248.15,2025-02-15,648.0
+2025-02-21,2844.21,Online Purchase,2844.21,0.0,0,Legitimate Transaction,Low,0,1031.5,2025-03-14,-504.0
+2025-01-30,99.9,Transfer,99.9,0.0,0,Legitimate Transaction,Low,0,2844.21,2025-02-21,-528.0
+2025-02-08,2943.24,Bill Payment,0.0,2943.24,0,Legitimate Transaction,Low,1,99.9,2025-01-30,216.0
+2025-03-20,3930.27,Bill Payment,3930.27,0.0,0,Legitimate Transaction,Low,0,2943.24,2025-02-08,960.0
+2025-03-11,1038.75,Transfer,0.0,1038.75,1,Multiple Transactions,Low,0,3930.27,2025-03-20,-216.0
+2025-02-05,4824.17,POS Purchase,4824.17,0.0,0,Legitimate Transaction,Low,0,1038.75,2025-03-11,-816.0
+2025-03-01,3029.52,POS Purchase,3029.52,0.0,0,Legitimate Transaction,Low,1,4824.17,2025-02-05,576.0
+2025-01-10,92.21,Online Purchase,92.21,0.0,1,Unusual Spending,Low,0,3029.52,2025-03-01,-1200.0
+2025-02-12,2645.77,Bill Payment,0.0,2645.77,0,Legitimate Transaction,Low,0,92.21,2025-01-10,792.0
+2025-01-21,1928.75,Online Purchase,1928.75,0.0,0,Legitimate Transaction,Low,0,2645.77,2025-02-12,-528.0
+2025-02-25,4127.65,Bill Payment,0.0,4127.65,0,Legitimate Transaction,Low,0,1928.75,2025-01-21,840.0
+2025-02-09,981.34,Online Purchase,981.34,0.0,0,Legitimate Transaction,Low,1,4127.65,2025-02-25,-384.0
+2025-02-02,1883.86,Cash Withdrawal,1883.86,0.0,0,Legitimate Transaction,Low,1,981.34,2025-02-09,-168.0
+2025-02-07,3825.97,Cash Withdrawal,3825.97,0.0,0,Legitimate Transaction,Low,0,1883.86,2025-02-02,120.0
+2025-02-09,2144.47,Online Purchase,2144.47,0.0,0,Legitimate Transaction,Low,1,3825.97,2025-02-07,48.0
+2025-01-06,3193.13,POS Purchase,0.0,3193.13,0,Legitimate Transaction,Low,0,2144.47,2025-02-09,-816.0
+2025-03-17,726.78,Bill Payment,0.0,726.78,1,Multiple Transactions,Low,0,3193.13,2025-01-06,1680.0
+2025-01-11,4901.67,POS Purchase,4901.67,0.0,0,Legitimate Transaction,Low,1,726.78,2025-03-17,-1560.0
+2025-03-27,3873.12,Transfer,3873.12,0.0,0,Legitimate Transaction,Low,0,4901.67,2025-01-11,1800.0
+2025-01-14,2039.34,POS Purchase,2039.34,0.0,0,Legitimate Transaction,Low,0,3873.12,2025-03-27,-1728.0
+2025-01-13,4465.78,Cash Withdrawal,0.0,4465.78,0,Legitimate Transaction,Low,0,2039.34,2025-01-14,-24.0
+2025-01-27,496.17,Online Purchase,496.17,0.0,0,Legitimate Transaction,Low,0,4465.78,2025-01-13,336.0
+2025-03-19,3533.62,Transfer,0.0,3533.62,0,Legitimate Transaction,Low,0,496.17,2025-01-27,1224.0
+2025-01-31,3267.45,Online Purchase,3267.45,0.0,0,Legitimate Transaction,Low,0,3533.62,2025-03-19,-1128.0
+2025-01-06,2292.43,POS Purchase,0.0,2292.43,0,Legitimate Transaction,Low,0,3267.45,2025-01-31,-600.0
+2025-01-30,4736.94,Bill Payment,4736.94,0.0,0,Legitimate Transaction,Low,0,2292.43,2025-01-06,576.0
+2025-03-22,3475.66,Online Purchase,3475.66,0.0,0,Legitimate Transaction,Low,1,4736.94,2025-01-30,1224.0
+2025-03-14,2559.15,Online Purchase,2559.15,0.0,0,Legitimate Transaction,Low,0,3475.66,2025-03-22,-192.0
+2025-02-18,3560.65,POS Purchase,3560.65,0.0,0,Legitimate Transaction,Low,0,2559.15,2025-03-14,-576.0
+2025-02-19,1282.28,Transfer,1282.28,0.0,0,Legitimate Transaction,Low,0,3560.65,2025-02-18,24.0
+2025-02-06,156.02,Bill Payment,156.02,0.0,0,Legitimate Transaction,Low,0,1282.28,2025-02-19,-312.0
+2025-02-02,3999.21,POS Purchase,0.0,3999.21,0,Legitimate Transaction,Low,1,156.02,2025-02-06,-96.0
+2025-03-14,2893.23,Cash Withdrawal,2893.23,0.0,0,Legitimate Transaction,Low,0,3999.21,2025-02-02,960.0
+2025-01-14,3577.5,POS Purchase,3577.5,0.0,0,Legitimate Transaction,Low,0,2893.23,2025-03-14,-1416.0
+2025-02-14,1816.24,Bill Payment,0.0,1816.24,0,Legitimate Transaction,Low,0,3577.5,2025-01-14,744.0
+2025-02-20,364.7,POS Purchase,364.7,0.0,0,Legitimate Transaction,Low,0,1816.24,2025-02-14,144.0
+2025-01-13,3906.47,Online Purchase,0.0,3906.47,0,Legitimate Transaction,Low,0,364.7,2025-02-20,-912.0
+2025-01-13,1712.47,Online Purchase,1712.47,0.0,0,Legitimate Transaction,Low,0,3906.47,2025-01-13,0.0
+2025-02-19,4319.56,Bill Payment,4319.56,0.0,0,Legitimate Transaction,Low,0,1712.47,2025-01-13,888.0
+2025-03-09,1304.17,POS Purchase,1304.17,0.0,0,Legitimate Transaction,Low,1,4319.56,2025-02-19,432.0
+2025-01-04,325.37,Online Purchase,325.37,0.0,0,Legitimate Transaction,Low,1,1304.17,2025-03-09,-1536.0
+2025-02-02,1145.48,Bill Payment,1145.48,0.0,0,Legitimate Transaction,Low,1,325.37,2025-01-04,696.0
+2025-01-29,2792.53,Transfer,0.0,2792.53,0,Legitimate Transaction,Low,0,1145.48,2025-02-02,-96.0
+2025-01-29,3907.29,Online Purchase,3907.29,0.0,0,Legitimate Transaction,Low,0,2792.53,2025-01-29,0.0
+2025-03-30,3302.17,Transfer,0.0,3302.17,0,Legitimate Transaction,Low,1,3907.29,2025-01-29,1440.0
+2025-03-04,1909.93,Transfer,0.0,1909.93,0,Legitimate Transaction,Low,0,3302.17,2025-03-30,-624.0
+2025-03-09,576.86,Bill Payment,576.86,0.0,0,Legitimate Transaction,Low,1,1909.93,2025-03-04,120.0
+2025-01-15,4525.17,Bill Payment,0.0,4525.17,1,Unusual Spending,High,0,576.86,2025-03-09,-1272.0
+2025-02-18,326.39,Transfer,0.0,326.39,0,Legitimate Transaction,Low,0,4525.17,2025-01-15,816.0
+2025-02-27,2776.69,Bill Payment,2776.69,0.0,0,Legitimate Transaction,Low,0,326.39,2025-02-18,216.0
+2025-03-13,1809.41,Transfer,1809.41,0.0,0,Legitimate Transaction,Low,0,2776.69,2025-02-27,336.0
+2025-01-29,648.34,POS Purchase,0.0,648.34,0,Legitimate Transaction,Low,0,1809.41,2025-03-13,-1032.0
+2025-01-04,86.52,Cash Withdrawal,86.52,0.0,0,Legitimate Transaction,Low,1,648.34,2025-01-29,-600.0
+2025-02-06,305.84,POS Purchase,305.84,0.0,0,Legitimate Transaction,Low,0,86.52,2025-01-04,792.0
+2025-03-24,2414.26,Bill Payment,0.0,2414.26,0,Legitimate Transaction,Low,0,305.84,2025-02-06,1104.0
+2025-01-05,3662.1,Cash Withdrawal,0.0,3662.1,0,Legitimate Transaction,Low,1,2414.26,2025-03-24,-1872.0
+2025-03-01,1230.86,Transfer,0.0,1230.86,0,Legitimate Transaction,Low,1,3662.1,2025-01-05,1320.0
+2025-02-02,3662.34,Transfer,3662.34,0.0,0,Legitimate Transaction,Low,1,1230.86,2025-03-01,-648.0
+2025-01-17,311.06,Bill Payment,0.0,311.06,0,Legitimate Transaction,Low,0,3662.34,2025-02-02,-384.0
+2025-01-12,485.35,Online Purchase,485.35,0.0,0,Legitimate Transaction,Low,1,311.06,2025-01-17,-120.0
+2025-03-03,1279.79,Cash Withdrawal,0.0,1279.79,0,Legitimate Transaction,Low,0,485.35,2025-01-12,1200.0
+2025-03-07,1829.05,POS Purchase,0.0,1829.05,0,Legitimate Transaction,Low,0,1279.79,2025-03-03,96.0
+2025-03-16,1670.79,POS Purchase,1670.79,0.0,0,Legitimate Transaction,Low,1,1829.05,2025-03-07,216.0
+2025-01-23,3223.96,Bill Payment,3223.96,0.0,0,Legitimate Transaction,Low,0,1670.79,2025-03-16,-1248.0
+2025-02-18,513.15,Bill Payment,0.0,513.15,0,Legitimate Transaction,Low,0,3223.96,2025-01-23,624.0
+2025-03-13,3501.95,Online Purchase,0.0,3501.95,0,Legitimate Transaction,Low,0,513.15,2025-02-18,552.0
+2025-01-23,4957.12,Online Purchase,0.0,4957.12,0,Legitimate Transaction,Low,0,3501.95,2025-03-13,-1176.0
+2025-03-28,3394.81,Transfer,0.0,3394.81,0,Legitimate Transaction,Low,0,4957.12,2025-01-23,1536.0
+2025-03-19,4993.63,Bill Payment,4993.63,0.0,0,Legitimate Transaction,Low,0,3394.81,2025-03-28,-216.0
+2025-03-13,3759.8,Online Purchase,0.0,3759.8,0,Legitimate Transaction,Low,0,4993.63,2025-03-19,-144.0
+2025-03-11,4164.65,Transfer,0.0,4164.65,0,Legitimate Transaction,Low,0,3759.8,2025-03-13,-48.0
+2025-01-13,2305.78,Cash Withdrawal,0.0,2305.78,0,Legitimate Transaction,Low,0,4164.65,2025-03-11,-1368.0
+2025-01-29,2187.45,POS Purchase,2187.45,0.0,0,Legitimate Transaction,Low,0,2305.78,2025-01-13,384.0
+2025-02-06,2199.28,Online Purchase,0.0,2199.28,0,Legitimate Transaction,Low,0,2187.45,2025-01-29,192.0
+2025-01-21,2751.94,Transfer,2751.94,0.0,0,Legitimate Transaction,Low,0,2199.28,2025-02-06,-384.0
+2025-01-09,4424.57,Cash Withdrawal,4424.57,0.0,0,Legitimate Transaction,Low,0,2751.94,2025-01-21,-288.0
+2025-01-14,3745.02,POS Purchase,3745.02,0.0,0,Legitimate Transaction,Low,0,4424.57,2025-01-09,120.0
+2025-02-24,3248.42,Online Purchase,0.0,3248.42,0,Legitimate Transaction,Low,0,3745.02,2025-01-14,984.0
+2025-01-09,833.55,Cash Withdrawal,0.0,833.55,0,Legitimate Transaction,Low,0,3248.42,2025-02-24,-1104.0
+2025-03-13,2010.79,Bill Payment,0.0,2010.79,0,Legitimate Transaction,Low,0,833.55,2025-01-09,1512.0
+2025-03-31,703.5,POS Purchase,0.0,703.5,0,Legitimate Transaction,Low,0,2010.79,2025-03-13,432.0
+2025-01-06,1805.49,POS Purchase,0.0,1805.49,0,Legitimate Transaction,Low,0,703.5,2025-03-31,-2016.0
+2025-01-04,977.3,Transfer,0.0,977.3,0,Legitimate Transaction,Low,1,1805.49,2025-01-06,-48.0
+2025-03-07,3923.67,POS Purchase,0.0,3923.67,0,Legitimate Transaction,Low,0,977.3,2025-01-04,1488.0
+2025-01-06,262.0,Cash Withdrawal,262.0,0.0,0,Legitimate Transaction,Low,0,3923.67,2025-03-07,-1440.0
+2025-03-01,208.73,Bill Payment,208.73,0.0,0,Legitimate Transaction,Low,1,262.0,2025-01-06,1296.0
+2025-01-03,4794.12,Transfer,0.0,4794.12,0,Legitimate Transaction,Low,0,208.73,2025-03-01,-1368.0
+2025-02-28,3693.45,POS Purchase,3693.45,0.0,0,Legitimate Transaction,Low,0,4794.12,2025-01-03,1344.0
+2025-01-19,3386.94,Transfer,3386.94,0.0,1,Location Mismatch,High,1,3693.45,2025-02-28,-960.0
+2025-02-09,2562.14,POS Purchase,2562.14,0.0,0,Legitimate Transaction,Low,1,3386.94,2025-01-19,504.0
+2025-01-19,1224.87,Bill Payment,0.0,1224.87,0,Legitimate Transaction,Low,1,2562.14,2025-02-09,-504.0
+2025-02-07,3383.62,Transfer,3383.62,0.0,0,Legitimate Transaction,Low,0,1224.87,2025-01-19,456.0
+2025-01-08,63.19,Cash Withdrawal,0.0,63.19,0,Legitimate Transaction,Low,0,3383.62,2025-02-07,-720.0
+2025-01-22,3035.63,Cash Withdrawal,0.0,3035.63,0,Legitimate Transaction,Low,0,63.19,2025-01-08,336.0
+2025-03-31,4636.08,Online Purchase,4636.08,0.0,0,Legitimate Transaction,Low,0,3035.63,2025-01-22,1632.0
+2025-02-18,3268.27,Bill Payment,3268.27,0.0,0,Legitimate Transaction,Low,0,4636.08,2025-03-31,-984.0
+2025-01-10,4259.71,Bill Payment,0.0,4259.71,0,Legitimate Transaction,Low,0,3268.27,2025-02-18,-936.0
+2025-03-31,3898.46,POS Purchase,3898.46,0.0,0,Legitimate Transaction,Low,0,4259.71,2025-01-10,1920.0
+2025-01-18,4388.44,Bill Payment,0.0,4388.44,0,Legitimate Transaction,Low,1,3898.46,2025-03-31,-1728.0
+2025-03-20,2278.36,Cash Withdrawal,2278.36,0.0,0,Legitimate Transaction,Low,0,4388.44,2025-01-18,1464.0
+2025-01-18,4711.49,POS Purchase,0.0,4711.49,0,Legitimate Transaction,Low,1,2278.36,2025-03-20,-1464.0
+2025-01-01,792.47,Bill Payment,0.0,792.47,0,Legitimate Transaction,Low,0,4711.49,2025-01-18,-408.0
+2025-03-24,2235.84,Online Purchase,2235.84,0.0,0,Legitimate Transaction,Low,0,792.47,2025-01-01,1968.0
+2025-02-12,3763.31,Transfer,3763.31,0.0,0,Legitimate Transaction,Low,0,2235.84,2025-03-24,-960.0
+2025-01-27,2672.48,Online Purchase,2672.48,0.0,0,Legitimate Transaction,Low,0,3763.31,2025-02-12,-384.0
+2025-03-10,435.72,Online Purchase,435.72,0.0,0,Legitimate Transaction,Low,0,2672.48,2025-01-27,1008.0
+2025-01-01,2880.28,Transfer,0.0,2880.28,0,Legitimate Transaction,Low,0,435.72,2025-03-10,-1632.0
+2025-02-05,211.76,Online Purchase,0.0,211.76,0,Legitimate Transaction,Low,0,2880.28,2025-01-01,840.0
+2025-01-29,2980.57,POS Purchase,2980.57,0.0,0,Legitimate Transaction,Low,0,211.76,2025-02-05,-168.0
+2025-01-30,2756.86,Transfer,2756.86,0.0,0,Legitimate Transaction,Low,0,2980.57,2025-01-29,24.0
+2025-01-26,3190.21,Online Purchase,3190.21,0.0,0,Legitimate Transaction,Low,1,2756.86,2025-01-30,-96.0
+2025-03-23,4956.15,Cash Withdrawal,0.0,4956.15,0,Legitimate Transaction,Low,1,3190.21,2025-01-26,1344.0
+2025-03-23,4138.87,Transfer,0.0,4138.87,0,Legitimate Transaction,Low,1,4956.15,2025-03-23,0.0
+2025-01-11,2550.13,Online Purchase,0.0,2550.13,0,Legitimate Transaction,Low,1,4138.87,2025-03-23,-1704.0
+2025-02-05,4691.18,POS Purchase,0.0,4691.18,0,Legitimate Transaction,Low,0,2550.13,2025-01-11,600.0
+2025-01-02,2123.57,POS Purchase,2123.57,0.0,0,Legitimate Transaction,Low,0,4691.18,2025-02-05,-816.0
+2025-02-20,1074.85,POS Purchase,0.0,1074.85,0,Legitimate Transaction,Low,0,2123.57,2025-01-02,1176.0
+2025-01-01,1057.53,POS Purchase,0.0,1057.53,0,Legitimate Transaction,Low,0,1074.85,2025-02-20,-1200.0
+2025-01-22,959.83,Cash Withdrawal,959.83,0.0,0,Legitimate Transaction,Low,0,1057.53,2025-01-01,504.0
+2025-03-25,2603.95,POS Purchase,0.0,2603.95,0,Legitimate Transaction,Low,0,959.83,2025-01-22,1488.0
+2025-03-05,3119.0,Cash Withdrawal,0.0,3119.0,0,Legitimate Transaction,Low,0,2603.95,2025-03-25,-480.0
+2025-02-18,1289.61,Cash Withdrawal,1289.61,0.0,0,Legitimate Transaction,Low,0,3119.0,2025-03-05,-360.0
+2025-01-10,2165.21,Cash Withdrawal,2165.21,0.0,0,Legitimate Transaction,Low,0,1289.61,2025-02-18,-936.0
+2025-01-25,223.12,Cash Withdrawal,223.12,0.0,0,Legitimate Transaction,Low,1,2165.21,2025-01-10,360.0
+2025-02-08,1834.51,Cash Withdrawal,1834.51,0.0,0,Legitimate Transaction,Low,1,223.12,2025-01-25,336.0
+2025-01-02,767.3,POS Purchase,767.3,0.0,0,Legitimate Transaction,Low,0,1834.51,2025-02-08,-888.0
+2025-03-13,706.81,Online Purchase,0.0,706.81,0,Legitimate Transaction,Low,0,767.3,2025-01-02,1680.0
+2025-01-13,2922.42,Bill Payment,0.0,2922.42,0,Legitimate Transaction,Low,0,706.81,2025-03-13,-1416.0
+2025-03-14,3720.54,Online Purchase,3720.54,0.0,0,Legitimate Transaction,Low,0,2922.42,2025-01-13,1440.0
+2025-02-14,4952.46,Online Purchase,0.0,4952.46,0,Legitimate Transaction,Low,0,3720.54,2025-03-14,-672.0
+2025-02-25,2572.94,Cash Withdrawal,0.0,2572.94,0,Legitimate Transaction,Low,0,4952.46,2025-02-14,264.0
+2025-03-21,4027.95,POS Purchase,0.0,4027.95,0,Legitimate Transaction,Low,0,2572.94,2025-02-25,576.0
+2025-02-23,1963.53,Transfer,1963.53,0.0,0,Legitimate Transaction,Low,1,4027.95,2025-03-21,-624.0
+2025-01-30,4286.18,Bill Payment,4286.18,0.0,0,Legitimate Transaction,Low,0,1963.53,2025-02-23,-576.0
+2025-01-11,765.75,POS Purchase,765.75,0.0,0,Legitimate Transaction,Low,1,4286.18,2025-01-30,-456.0
+2025-01-22,2135.84,Cash Withdrawal,2135.84,0.0,0,Legitimate Transaction,Low,0,765.75,2025-01-11,264.0
+2025-03-13,2843.36,POS Purchase,2843.36,0.0,0,Legitimate Transaction,Low,0,2135.84,2025-01-22,1200.0
+2025-01-07,338.26,Transfer,338.26,0.0,0,Legitimate Transaction,Low,0,2843.36,2025-03-13,-1560.0
+2025-03-15,2018.12,Cash Withdrawal,0.0,2018.12,0,Legitimate Transaction,Low,1,338.26,2025-01-07,1608.0
+2025-03-21,1557.6,Cash Withdrawal,0.0,1557.6,0,Legitimate Transaction,Low,0,2018.12,2025-03-15,144.0
+2025-03-02,3138.03,Online Purchase,3138.03,0.0,0,Legitimate Transaction,Low,1,1557.6,2025-03-21,-456.0
+2025-02-06,2895.92,Bill Payment,2895.92,0.0,1,Card Cloning,High,0,3138.03,2025-03-02,-576.0
+2025-03-17,1051.67,Online Purchase,1051.67,0.0,0,Legitimate Transaction,Low,0,2895.92,2025-02-06,936.0
+2025-02-11,775.86,Online Purchase,0.0,775.86,0,Legitimate Transaction,Low,0,1051.67,2025-03-17,-816.0
+2025-03-01,1071.25,Bill Payment,0.0,1071.25,0,Legitimate Transaction,Low,1,775.86,2025-02-11,432.0
+2025-02-13,970.62,Online Purchase,970.62,0.0,0,Legitimate Transaction,Low,0,1071.25,2025-03-01,-384.0
+2025-03-26,887.8,Bill Payment,0.0,887.8,0,Legitimate Transaction,Low,0,970.62,2025-02-13,984.0
+2025-02-06,2722.37,Transfer,2722.37,0.0,0,Legitimate Transaction,Low,0,887.8,2025-03-26,-1152.0
+2025-01-05,4513.07,Transfer,0.0,4513.07,0,Legitimate Transaction,Low,1,2722.37,2025-02-06,-768.0
+2025-02-05,3992.88,Transfer,0.0,3992.88,0,Legitimate Transaction,Low,0,4513.07,2025-01-05,744.0
+2025-03-04,2257.77,Online Purchase,0.0,2257.77,0,Legitimate Transaction,Low,0,3992.88,2025-02-05,648.0
+2025-02-23,1543.92,Cash Withdrawal,0.0,1543.92,0,Legitimate Transaction,Low,1,2257.77,2025-03-04,-216.0
+2025-02-27,871.03,Transfer,871.03,0.0,0,Legitimate Transaction,Low,0,1543.92,2025-02-23,96.0
+2025-01-23,2883.17,POS Purchase,2883.17,0.0,0,Legitimate Transaction,Low,0,871.03,2025-02-27,-840.0
+2025-02-28,3569.25,Bill Payment,3569.25,0.0,0,Legitimate Transaction,Low,0,2883.17,2025-01-23,864.0
+2025-03-25,963.47,Transfer,963.47,0.0,0,Legitimate Transaction,Low,0,3569.25,2025-02-28,600.0
+2025-03-29,729.52,POS Purchase,0.0,729.52,0,Legitimate Transaction,Low,1,963.47,2025-03-25,96.0
+2025-02-02,61.57,Cash Withdrawal,0.0,61.57,0,Legitimate Transaction,Low,1,729.52,2025-03-29,-1320.0
+2025-02-05,4870.93,Transfer,4870.93,0.0,0,Legitimate Transaction,Low,0,61.57,2025-02-02,72.0
+2025-03-08,974.79,Bill Payment,0.0,974.79,0,Legitimate Transaction,Low,1,4870.93,2025-02-05,744.0
+2025-01-25,512.96,Bill Payment,0.0,512.96,0,Legitimate Transaction,Low,1,974.79,2025-03-08,-1008.0
+2025-02-12,4766.28,Online Purchase,0.0,4766.28,0,Legitimate Transaction,Low,0,512.96,2025-01-25,432.0
+2025-03-21,3818.92,POS Purchase,0.0,3818.92,0,Legitimate Transaction,Low,0,4766.28,2025-02-12,888.0
+2025-03-10,4300.18,Online Purchase,0.0,4300.18,0,Legitimate Transaction,Low,0,3818.92,2025-03-21,-264.0
+2025-01-05,3125.76,Online Purchase,0.0,3125.76,0,Legitimate Transaction,Low,1,4300.18,2025-03-10,-1536.0
+2025-02-17,4552.39,Bill Payment,0.0,4552.39,0,Legitimate Transaction,Low,0,3125.76,2025-01-05,1032.0
+2025-01-12,4752.09,Transfer,4752.09,0.0,0,Legitimate Transaction,Low,1,4552.39,2025-02-17,-864.0
+2025-01-27,501.43,POS Purchase,501.43,0.0,0,Legitimate Transaction,Low,0,4752.09,2025-01-12,360.0
+2025-03-13,3177.03,Online Purchase,3177.03,0.0,0,Legitimate Transaction,Low,0,501.43,2025-01-27,1080.0
+2025-01-27,198.06,Transfer,198.06,0.0,0,Legitimate Transaction,Low,0,3177.03,2025-03-13,-1080.0
+2025-01-19,218.27,Cash Withdrawal,218.27,0.0,0,Legitimate Transaction,Low,1,198.06,2025-01-27,-192.0
+2025-01-08,619.34,Cash Withdrawal,619.34,0.0,0,Legitimate Transaction,Low,0,218.27,2025-01-19,-264.0
+2025-03-25,951.78,Cash Withdrawal,0.0,951.78,1,Multiple Transactions,High,0,619.34,2025-01-08,1824.0
+2025-01-15,3159.59,Bill Payment,3159.59,0.0,0,Legitimate Transaction,Low,0,951.78,2025-03-25,-1656.0
+2025-02-28,4185.31,Cash Withdrawal,4185.31,0.0,0,Legitimate Transaction,Low,0,3159.59,2025-01-15,1056.0
+2025-01-02,1400.46,Transfer,0.0,1400.46,0,Legitimate Transaction,Low,0,4185.31,2025-02-28,-1368.0
+2025-03-17,4015.08,Bill Payment,4015.08,0.0,0,Legitimate Transaction,Low,0,1400.46,2025-01-02,1776.0
+2025-01-31,4585.41,Transfer,0.0,4585.41,0,Legitimate Transaction,Low,0,4015.08,2025-03-17,-1080.0
+2025-02-02,2146.41,Bill Payment,0.0,2146.41,0,Legitimate Transaction,Low,1,4585.41,2025-01-31,48.0
+2025-01-03,3892.3,Cash Withdrawal,0.0,3892.3,1,Unusual Spending,High,0,2146.41,2025-02-02,-720.0
+2025-01-20,430.55,Bill Payment,0.0,430.55,0,Legitimate Transaction,Low,0,3892.3,2025-01-03,408.0
+2025-02-03,2465.01,Transfer,0.0,2465.01,0,Legitimate Transaction,Low,0,430.55,2025-01-20,336.0
+2025-01-01,3086.4,Cash Withdrawal,3086.4,0.0,0,Legitimate Transaction,Low,0,2465.01,2025-02-03,-792.0
+2025-02-18,2071.65,Online Purchase,2071.65,0.0,0,Legitimate Transaction,Low,0,3086.4,2025-01-01,1152.0
+2025-02-24,3726.53,Online Purchase,3726.53,0.0,0,Legitimate Transaction,Low,0,2071.65,2025-02-18,144.0
+2025-03-06,2128.95,POS Purchase,0.0,2128.95,0,Legitimate Transaction,Low,0,3726.53,2025-02-24,240.0
+2025-01-27,4892.34,Cash Withdrawal,0.0,4892.34,0,Legitimate Transaction,Low,0,2128.95,2025-03-06,-912.0
+2025-01-26,3475.02,Bill Payment,0.0,3475.02,0,Legitimate Transaction,Low,1,4892.34,2025-01-27,-24.0
+2025-01-18,242.43,Bill Payment,0.0,242.43,0,Legitimate Transaction,Low,1,3475.02,2025-01-26,-192.0
+2025-02-13,1836.31,Online Purchase,0.0,1836.31,0,Legitimate Transaction,Low,0,242.43,2025-01-18,624.0
+2025-02-25,331.95,Bill Payment,331.95,0.0,0,Legitimate Transaction,Low,0,1836.31,2025-02-13,288.0
+2025-01-11,1310.96,POS Purchase,0.0,1310.96,0,Legitimate Transaction,Low,1,331.95,2025-02-25,-1080.0
+2025-01-14,3833.58,POS Purchase,0.0,3833.58,0,Legitimate Transaction,Low,0,1310.96,2025-01-11,72.0
+2025-03-22,686.72,Online Purchase,686.72,0.0,1,Unusual Spending,Low,1,3833.58,2025-01-14,1608.0
+2025-02-08,2575.18,Cash Withdrawal,2575.18,0.0,0,Legitimate Transaction,Low,1,686.72,2025-03-22,-1008.0
+2025-03-13,2619.84,Bill Payment,0.0,2619.84,0,Legitimate Transaction,Low,0,2575.18,2025-02-08,792.0
+2025-01-31,95.96,Cash Withdrawal,95.96,0.0,0,Legitimate Transaction,Low,0,2619.84,2025-03-13,-984.0
+2025-01-17,4271.21,Transfer,4271.21,0.0,0,Legitimate Transaction,Low,0,95.96,2025-01-31,-336.0
+2025-03-29,1279.64,Transfer,0.0,1279.64,0,Legitimate Transaction,Low,1,4271.21,2025-01-17,1704.0
+2025-03-12,723.18,POS Purchase,0.0,723.18,0,Legitimate Transaction,Low,0,1279.64,2025-03-29,-408.0
+2025-03-12,869.64,Bill Payment,869.64,0.0,0,Legitimate Transaction,Low,0,723.18,2025-03-12,0.0
+2025-03-01,3904.83,POS Purchase,3904.83,0.0,0,Legitimate Transaction,Low,1,869.64,2025-03-12,-264.0
+2025-02-16,4451.45,POS Purchase,4451.45,0.0,0,Legitimate Transaction,Low,1,3904.83,2025-03-01,-312.0
+2025-03-21,1702.05,Transfer,0.0,1702.05,0,Legitimate Transaction,Low,0,4451.45,2025-02-16,792.0
+2025-03-15,4847.07,Cash Withdrawal,0.0,4847.07,0,Legitimate Transaction,Low,1,1702.05,2025-03-21,-144.0
+2025-02-21,4159.1,Online Purchase,4159.1,0.0,0,Legitimate Transaction,Low,0,4847.07,2025-03-15,-528.0
+2025-02-08,209.23,Cash Withdrawal,209.23,0.0,0,Legitimate Transaction,Low,1,4159.1,2025-02-21,-312.0
+2025-01-11,4072.03,Transfer,4072.03,0.0,0,Legitimate Transaction,Low,1,209.23,2025-02-08,-672.0
+2025-01-29,1577.93,Bill Payment,0.0,1577.93,0,Legitimate Transaction,Low,0,4072.03,2025-01-11,432.0
+2025-02-03,1827.79,Cash Withdrawal,0.0,1827.79,0,Legitimate Transaction,Low,0,1577.93,2025-01-29,120.0
+2025-03-08,4691.92,Online Purchase,4691.92,0.0,0,Legitimate Transaction,Low,1,1827.79,2025-02-03,792.0
+2025-02-17,2581.57,Bill Payment,2581.57,0.0,0,Legitimate Transaction,Low,0,4691.92,2025-03-08,-456.0
+2025-02-21,851.61,Bill Payment,0.0,851.61,0,Legitimate Transaction,Low,0,2581.57,2025-02-17,96.0
+2025-02-05,3574.88,Online Purchase,0.0,3574.88,0,Legitimate Transaction,Low,0,851.61,2025-02-21,-384.0
+2025-03-29,3752.66,Online Purchase,3752.66,0.0,0,Legitimate Transaction,Low,1,3574.88,2025-02-05,1248.0
+2025-01-16,1489.36,Cash Withdrawal,0.0,1489.36,1,Card Cloning,Low,0,3752.66,2025-03-29,-1728.0
+2025-01-30,35.46,Transfer,0.0,35.46,0,Legitimate Transaction,Low,0,1489.36,2025-01-16,336.0
+2025-03-09,2086.99,Cash Withdrawal,0.0,2086.99,0,Legitimate Transaction,Low,1,35.46,2025-01-30,912.0
+2025-02-26,2081.2,Cash Withdrawal,2081.2,0.0,0,Legitimate Transaction,Low,0,2086.99,2025-03-09,-264.0
+2025-01-15,1333.02,POS Purchase,1333.02,0.0,0,Legitimate Transaction,Low,0,2081.2,2025-02-26,-1008.0
+2025-02-20,3445.22,Bill Payment,3445.22,0.0,0,Legitimate Transaction,Low,0,1333.02,2025-01-15,864.0
+2025-03-16,3462.71,Online Purchase,3462.71,0.0,0,Legitimate Transaction,Low,1,3445.22,2025-02-20,576.0
+2025-01-27,1427.91,Online Purchase,0.0,1427.91,0,Legitimate Transaction,Low,0,3462.71,2025-03-16,-1152.0
+2025-01-03,346.62,Cash Withdrawal,346.62,0.0,0,Legitimate Transaction,Low,0,1427.91,2025-01-27,-576.0
+2025-01-14,4865.62,POS Purchase,0.0,4865.62,0,Legitimate Transaction,Low,0,346.62,2025-01-03,264.0
+2025-02-03,1157.25,Bill Payment,0.0,1157.25,0,Legitimate Transaction,Low,0,4865.62,2025-01-14,480.0
+2025-02-17,2399.79,Cash Withdrawal,2399.79,0.0,0,Legitimate Transaction,Low,0,1157.25,2025-02-03,336.0
+2025-01-30,4655.11,POS Purchase,0.0,4655.11,0,Legitimate Transaction,Low,0,2399.79,2025-02-17,-432.0
+2025-02-16,3252.44,POS Purchase,0.0,3252.44,0,Legitimate Transaction,Low,1,4655.11,2025-01-30,408.0
+2025-03-31,3781.09,Cash Withdrawal,0.0,3781.09,0,Legitimate Transaction,Low,0,3252.44,2025-02-16,1032.0
+2025-03-28,4446.36,Transfer,4446.36,0.0,0,Legitimate Transaction,Low,0,3781.09,2025-03-31,-72.0
+2025-02-21,1650.5,POS Purchase,0.0,1650.5,0,Legitimate Transaction,Low,0,4446.36,2025-03-28,-840.0
+2025-03-28,1342.85,Bill Payment,1342.85,0.0,0,Legitimate Transaction,Low,0,1650.5,2025-02-21,840.0
+2025-02-12,4593.78,POS Purchase,4593.78,0.0,1,Location Mismatch,High,0,1342.85,2025-03-28,-1056.0
+2025-02-26,2794.13,Cash Withdrawal,0.0,2794.13,0,Legitimate Transaction,Low,0,4593.78,2025-02-12,336.0
+2025-02-12,386.9,Bill Payment,386.9,0.0,0,Legitimate Transaction,Low,0,2794.13,2025-02-26,-336.0
+2025-01-31,3322.7,Bill Payment,0.0,3322.7,0,Legitimate Transaction,Low,0,386.9,2025-02-12,-288.0
+2025-02-17,4117.85,POS Purchase,4117.85,0.0,0,Legitimate Transaction,Low,0,3322.7,2025-01-31,408.0
+2025-03-11,1051.85,POS Purchase,0.0,1051.85,0,Legitimate Transaction,Low,0,4117.85,2025-02-17,528.0
+2025-01-10,3208.69,Transfer,0.0,3208.69,0,Legitimate Transaction,Low,0,1051.85,2025-03-11,-1440.0
+2025-03-03,425.93,Cash Withdrawal,0.0,425.93,0,Legitimate Transaction,Low,0,3208.69,2025-01-10,1248.0
+2025-01-16,4480.21,POS Purchase,0.0,4480.21,0,Legitimate Transaction,Low,0,425.93,2025-03-03,-1104.0
+2025-01-28,532.12,Bill Payment,532.12,0.0,0,Legitimate Transaction,Low,0,4480.21,2025-01-16,288.0
+2025-02-21,3742.89,Online Purchase,3742.89,0.0,0,Legitimate Transaction,Low,0,532.12,2025-01-28,576.0
+2025-03-24,2544.02,Bill Payment,2544.02,0.0,0,Legitimate Transaction,Low,0,3742.89,2025-02-21,744.0
+2025-03-18,1390.03,Transfer,1390.03,0.0,0,Legitimate Transaction,Low,0,2544.02,2025-03-24,-144.0
+2025-02-07,2895.33,Bill Payment,0.0,2895.33,0,Legitimate Transaction,Low,0,1390.03,2025-03-18,-936.0
+2025-03-29,632.66,Cash Withdrawal,632.66,0.0,0,Legitimate Transaction,Low,1,2895.33,2025-02-07,1200.0
+2025-01-03,1548.09,POS Purchase,0.0,1548.09,0,Legitimate Transaction,Low,0,632.66,2025-03-29,-2040.0
+2025-01-16,2198.05,POS Purchase,2198.05,0.0,0,Legitimate Transaction,Low,0,1548.09,2025-01-03,312.0
+2025-03-25,3307.22,Cash Withdrawal,0.0,3307.22,0,Legitimate Transaction,Low,0,2198.05,2025-01-16,1632.0
+2025-01-23,2853.22,Cash Withdrawal,2853.22,0.0,0,Legitimate Transaction,Low,0,3307.22,2025-03-25,-1464.0
+2025-01-23,674.36,Bill Payment,674.36,0.0,0,Legitimate Transaction,Low,0,2853.22,2025-01-23,0.0
+2025-03-26,2163.0,Cash Withdrawal,2163.0,0.0,0,Legitimate Transaction,Low,0,674.36,2025-01-23,1488.0
+2025-03-20,364.68,Bill Payment,0.0,364.68,0,Legitimate Transaction,Low,0,2163.0,2025-03-26,-144.0
+2025-03-01,1945.29,Transfer,0.0,1945.29,0,Legitimate Transaction,Low,1,364.68,2025-03-20,-456.0
+2025-01-13,4613.82,Transfer,0.0,4613.82,0,Legitimate Transaction,Low,0,1945.29,2025-03-01,-1128.0
+2025-03-13,3001.75,Transfer,3001.75,0.0,0,Legitimate Transaction,Low,0,4613.82,2025-01-13,1416.0
+2025-01-12,109.57,Cash Withdrawal,109.57,0.0,0,Legitimate Transaction,Low,1,3001.75,2025-03-13,-1440.0
+2025-01-31,4489.04,Online Purchase,0.0,4489.04,0,Legitimate Transaction,Low,0,109.57,2025-01-12,456.0
+2025-03-02,4751.9,Transfer,0.0,4751.9,0,Legitimate Transaction,Low,1,4489.04,2025-01-31,720.0
+2025-03-14,4700.37,POS Purchase,4700.37,0.0,0,Legitimate Transaction,Low,0,4751.9,2025-03-02,288.0
+2025-03-18,1801.6,Bill Payment,0.0,1801.6,0,Legitimate Transaction,Low,0,4700.37,2025-03-14,96.0
+2025-03-15,2879.04,POS Purchase,2879.04,0.0,0,Legitimate Transaction,Low,1,1801.6,2025-03-18,-72.0
+2025-03-17,1470.04,POS Purchase,1470.04,0.0,0,Legitimate Transaction,Low,0,2879.04,2025-03-15,48.0
+2025-03-15,2918.23,POS Purchase,2918.23,0.0,0,Legitimate Transaction,Low,1,1470.04,2025-03-17,-48.0
+2025-02-28,3726.37,Transfer,0.0,3726.37,0,Legitimate Transaction,Low,0,2918.23,2025-03-15,-360.0
+2025-01-09,4235.15,Online Purchase,4235.15,0.0,0,Legitimate Transaction,Low,0,3726.37,2025-02-28,-1200.0
+2025-03-15,4058.94,Online Purchase,4058.94,0.0,0,Legitimate Transaction,Low,1,4235.15,2025-01-09,1560.0
+2025-03-18,748.95,Bill Payment,0.0,748.95,0,Legitimate Transaction,Low,0,4058.94,2025-03-15,72.0
+2025-03-11,1854.94,Transfer,1854.94,0.0,0,Legitimate Transaction,Low,0,748.95,2025-03-18,-168.0
+2025-02-14,2184.04,Transfer,0.0,2184.04,0,Legitimate Transaction,Low,0,1854.94,2025-03-11,-600.0
+2025-03-05,1397.09,Online Purchase,0.0,1397.09,0,Legitimate Transaction,Low,0,2184.04,2025-02-14,456.0
+2025-03-18,4866.79,Cash Withdrawal,4866.79,0.0,0,Legitimate Transaction,Low,0,1397.09,2025-03-05,312.0
+2025-03-23,3979.29,POS Purchase,0.0,3979.29,0,Legitimate Transaction,Low,1,4866.79,2025-03-18,120.0
+2025-01-11,870.02,Bill Payment,0.0,870.02,0,Legitimate Transaction,Low,1,3979.29,2025-03-23,-1704.0
+2025-02-10,3647.44,Bill Payment,3647.44,0.0,0,Legitimate Transaction,Low,0,870.02,2025-01-11,720.0
+2025-02-05,1211.72,Cash Withdrawal,1211.72,0.0,0,Legitimate Transaction,Low,0,3647.44,2025-02-10,-120.0
+2025-02-25,3412.18,POS Purchase,0.0,3412.18,0,Legitimate Transaction,Low,0,1211.72,2025-02-05,480.0
+2025-03-31,2785.27,Transfer,2785.27,0.0,0,Legitimate Transaction,Low,0,3412.18,2025-02-25,816.0
+2025-01-01,4412.2,Transfer,0.0,4412.2,0,Legitimate Transaction,Low,0,2785.27,2025-03-31,-2136.0
+2025-01-26,1124.54,Bill Payment,1124.54,0.0,0,Legitimate Transaction,Low,1,4412.2,2025-01-01,600.0
+2025-02-18,4679.36,Online Purchase,0.0,4679.36,0,Legitimate Transaction,Low,0,1124.54,2025-01-26,552.0
+2025-03-02,47.2,POS Purchase,47.2,0.0,0,Legitimate Transaction,Low,1,4679.36,2025-02-18,288.0
+2025-03-17,2767.87,Transfer,0.0,2767.87,0,Legitimate Transaction,Low,0,47.2,2025-03-02,360.0
+2025-03-14,3440.33,POS Purchase,0.0,3440.33,1,Location Mismatch,High,0,2767.87,2025-03-17,-72.0
+2025-01-23,864.26,Online Purchase,864.26,0.0,0,Legitimate Transaction,Low,0,3440.33,2025-03-14,-1200.0
+2025-01-12,4473.62,Online Purchase,0.0,4473.62,0,Legitimate Transaction,Low,1,864.26,2025-01-23,-264.0
+2025-03-31,440.81,Online Purchase,0.0,440.81,0,Legitimate Transaction,Low,0,4473.62,2025-01-12,1872.0
+2025-01-04,2371.73,Transfer,2371.73,0.0,0,Legitimate Transaction,Low,1,440.81,2025-03-31,-2064.0
+2025-01-30,137.28,Online Purchase,0.0,137.28,0,Legitimate Transaction,Low,0,2371.73,2025-01-04,624.0
+2025-03-30,2386.23,Online Purchase,2386.23,0.0,0,Legitimate Transaction,Low,1,137.28,2025-01-30,1416.0
+2025-02-15,4721.52,POS Purchase,0.0,4721.52,0,Legitimate Transaction,Low,1,2386.23,2025-03-30,-1032.0
+2025-03-07,1996.8,Transfer,0.0,1996.8,0,Legitimate Transaction,Low,0,4721.52,2025-02-15,480.0
+2025-02-02,2992.71,Online Purchase,0.0,2992.71,0,Legitimate Transaction,Low,1,1996.8,2025-03-07,-792.0
+2025-03-25,1054.49,POS Purchase,1054.49,0.0,0,Legitimate Transaction,Low,0,2992.71,2025-02-02,1224.0
+2025-01-19,4853.84,Transfer,4853.84,0.0,0,Legitimate Transaction,Low,1,1054.49,2025-03-25,-1560.0
+2025-02-28,2541.59,POS Purchase,2541.59,0.0,0,Legitimate Transaction,Low,0,4853.84,2025-01-19,960.0
+2025-02-19,102.32,POS Purchase,0.0,102.32,0,Legitimate Transaction,Low,0,2541.59,2025-02-28,-216.0
+2025-01-01,2158.06,POS Purchase,2158.06,0.0,0,Legitimate Transaction,Low,0,102.32,2025-02-19,-1176.0
+2025-03-22,3069.57,POS Purchase,0.0,3069.57,0,Legitimate Transaction,Low,1,2158.06,2025-01-01,1920.0
+2025-03-13,669.17,Transfer,0.0,669.17,0,Legitimate Transaction,Low,0,3069.57,2025-03-22,-216.0
+2025-02-28,4862.9,Online Purchase,0.0,4862.9,0,Legitimate Transaction,Low,0,669.17,2025-03-13,-312.0
+2025-03-15,3330.6,Online Purchase,3330.6,0.0,0,Legitimate Transaction,Low,1,4862.9,2025-02-28,360.0
+2025-01-24,2626.37,Bill Payment,0.0,2626.37,0,Legitimate Transaction,Low,0,3330.6,2025-03-15,-1200.0
+2025-03-16,3835.64,Bill Payment,3835.64,0.0,0,Legitimate Transaction,Low,1,2626.37,2025-01-24,1224.0
+2025-01-24,4838.97,Transfer,4838.97,0.0,0,Legitimate Transaction,Low,0,3835.64,2025-03-16,-1224.0
+2025-01-09,4743.62,POS Purchase,4743.62,0.0,1,Unusual Spending,High,0,4838.97,2025-01-24,-360.0
+2025-03-30,2309.09,Bill Payment,0.0,2309.09,0,Legitimate Transaction,Low,1,4743.62,2025-01-09,1920.0
+2025-02-18,1618.46,Transfer,0.0,1618.46,0,Legitimate Transaction,Low,0,2309.09,2025-03-30,-960.0
+2025-03-15,1458.48,Online Purchase,1458.48,0.0,0,Legitimate Transaction,Low,1,1618.46,2025-02-18,600.0
+2025-02-03,2857.3,POS Purchase,0.0,2857.3,0,Legitimate Transaction,Low,0,1458.48,2025-03-15,-960.0
+2025-02-16,4624.46,Transfer,4624.46,0.0,0,Legitimate Transaction,Low,1,2857.3,2025-02-03,312.0
+2025-02-17,3909.41,Transfer,0.0,3909.41,0,Legitimate Transaction,Low,0,4624.46,2025-02-16,24.0
+2025-03-01,1454.66,Cash Withdrawal,1454.66,0.0,0,Legitimate Transaction,Low,1,3909.41,2025-02-17,288.0
+2025-01-20,587.62,Online Purchase,0.0,587.62,1,High-Risk Merchant,High,0,1454.66,2025-03-01,-960.0
+2025-02-25,3851.09,Transfer,0.0,3851.09,0,Legitimate Transaction,Low,0,587.62,2025-01-20,864.0
+2025-02-19,4056.0,Bill Payment,4056.0,0.0,0,Legitimate Transaction,Low,0,3851.09,2025-02-25,-144.0
+2025-01-19,2845.42,Online Purchase,2845.42,0.0,0,Legitimate Transaction,Low,1,4056.0,2025-02-19,-744.0
+2025-01-21,3140.5,Bill Payment,0.0,3140.5,0,Legitimate Transaction,Low,0,2845.42,2025-01-19,48.0
+2025-02-10,3503.8,POS Purchase,0.0,3503.8,1,Unusual Spending,High,0,3140.5,2025-01-21,480.0
+2025-01-06,1177.74,Cash Withdrawal,1177.74,0.0,0,Legitimate Transaction,Low,0,3503.8,2025-02-10,-840.0
+2025-03-06,3515.51,Cash Withdrawal,0.0,3515.51,0,Legitimate Transaction,Low,0,1177.74,2025-01-06,1416.0
+2025-01-01,2390.94,Cash Withdrawal,0.0,2390.94,0,Legitimate Transaction,Low,0,3515.51,2025-03-06,-1536.0
+2025-03-04,4207.66,Cash Withdrawal,0.0,4207.66,0,Legitimate Transaction,Low,0,2390.94,2025-01-01,1488.0
+2025-01-27,4777.11,Bill Payment,4777.11,0.0,1,Unusual Spending,High,0,4207.66,2025-03-04,-864.0
+2025-01-08,4911.85,Online Purchase,4911.85,0.0,0,Legitimate Transaction,Low,0,4777.11,2025-01-27,-456.0
+2025-02-02,2569.88,POS Purchase,2569.88,0.0,0,Legitimate Transaction,Low,1,4911.85,2025-01-08,600.0
+2025-02-08,3380.0,Cash Withdrawal,0.0,3380.0,0,Legitimate Transaction,Low,1,2569.88,2025-02-02,144.0
+2025-03-12,3341.65,Online Purchase,3341.65,0.0,0,Legitimate Transaction,Low,0,3380.0,2025-02-08,768.0
+2025-02-03,4295.09,POS Purchase,0.0,4295.09,0,Legitimate Transaction,Low,0,3341.65,2025-03-12,-888.0
+2025-02-08,4405.21,Transfer,0.0,4405.21,0,Legitimate Transaction,Low,1,4295.09,2025-02-03,120.0
+2025-01-06,3833.99,Cash Withdrawal,3833.99,0.0,0,Legitimate Transaction,Low,0,4405.21,2025-02-08,-792.0
